@@ -1,0 +1,31 @@
+If you need a program like Adobe Air which does not have 64-bit .deb-package available for your Debian-based system here is way to fix package and get it to work in 64bit systems.
+
+1. Download .deb package of program you want to install
+
+2. In terminal window create temp-directory: mkdir temp
+
+3. Extract the deb file to the temp dir: dpkg-deb -x PACKAGE_NAME-i386.deb temp
+
+4. Extract the control files: dpkg-deb --control PACKAGE_NAME-i386.deb temp/DEBIAN
+
+5. Change the Architecture parameter from "i386" to "all": sed -i "s/i386/all/" temp/DEBIAN/control
+
+6. Repackage the deb file: dpkg -b temp PACKAGE_NAME_64.deb
+
+7. Now you can install it: sudo dpkg -i PACKAGE_NAME_64.deb
+
+That’s it! Working like a charm in my Ubuntu 10.10 64bit system.
+
+
+
+
+for vmware-view-client, rename temp/usr/lib to temp/usr/lib32
+
+
+edit control file
+	temp/DEBIAN/control
+
+
+updating the md5s
+	cd temp
+	md5deep -lr usr > DEBIAN/md5sums

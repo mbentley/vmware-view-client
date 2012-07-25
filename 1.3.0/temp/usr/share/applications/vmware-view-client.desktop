@@ -1,0 +1,7 @@
+[Desktop Entry]
+Encoding=UTF-8
+Type=Application
+Icon=vmware-view-client-vmware
+Exec=vmware-view
+Categories=Application;Network;
+Name=VMware View Client

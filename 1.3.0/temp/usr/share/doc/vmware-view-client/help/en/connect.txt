@@ -1,0 +1,24 @@
+<span underline="single">Connect to View Connection Server</span>
+
+With VMware View Client, you can connect to the virtual desktops available for your use. For more information about your virtual desktops and the software installed in them, contact your View administrator.
+
+View Client runs as a native Linux application that connects to View Connection Server. You must connect to View Connection Server before you can log in and connect to a virtual desktop.
+
+Note: View Client can connect to only one instance of View Connection Server at a time. To connect, you must be able to supply the server host name or IP address.
+
+To connect to View Connection Server:
+1. Start View Client as instructed by your View administrator.
+2. Select your View Connection Server from the <b>Address</b> drop-down menu, or enter the server host name or IP address.
+3. (Optional) Click <b>Options</b> to view or hide options for connecting to the selected server. Configure these options only if your View administrator instructs you to do so. Options include:
+
+<b>Port</b> - The port entry is set to the default port for View Connection Server.
+<b>Use secure connection (SSL)</b> - Select to use a secure (SSL) connection to protect sensitive corporate information and ensure that all connections are completely encrypted. Your View administrator might have configured View Connection Server to always use a secure connection, even if you set a non-secure connection.
+
+Note: You can also supply port and SSL options by typing them into the address field directly.
+For a non-SSL connection, type: http://&lt;URL&gt;[:port number]. For an SSL connection, type: https://&lt;URL&gt;[:port number].
+
+<b>Always connect to this server at startup</b> - Select to connect directly to the current instance of View Connection Server when you start View Client. Select this option if you always connect to the same View Connection Server. If left unselected, you are prompted to choose a View Connection Server when you start View Client.
+
+Note: If the connection fails, you are returned to the server selection dialog box. If the connection succeeds, you can return to the server selection dialog box by clicking <b>Cancel</b> in the first dialog box that appears on connection.
+
+4. Click <b>Connect</b>.

@@ -1,0 +1,62 @@
+<span underline="single">Connect to a Desktop</span>
+
+After you connect to View Connection Server and log in, you can connect to a virtual desktop. The View Client window displays a list of the desktops that you are authorized to use, as well as the current status of each desktop.
+
+To connect to a desktop:
+1. Select a desktop from the list in the View Client window.
+2. (Optional) Select an option from the <b>Display</b> drop-down menu. Full Screen displays the desktop over the complete monitor screen. If you select Full Screen and have multiple monitors, drag the desktop selection window to the monitor in which you want the desktop to appear.
+3. (Optional) Depending on how your View administrator configured the system, you can select a display protocol. Click the down-arrow, select <b>Protocols</b>, and select either Microsoft RDP or PCoIP. For specific instructions, contact your View administrator.
+4. Double-click the desktop in the list, click <b>Connect</b>, or click the down-arrow and select <b>Connect</b>.
+
+Your selections are saved as preferences for the next time you connect.
+
+<span underline="single">Roll Back a Desktop</span>
+
+You can roll back a virtual desktop that is checked out on another host. Rolling back a checked-out desktop discards any changes that were made to the desktop, and any data that was not backed up to the server is lost.
+
+To roll back a desktop:
+1. Click the down-arrow next to the checked out desktop you want to roll back.
+2. Select <b>Rollback</b>.
+
+The checkout on the remote host is cancelled and you can now log in to the desktop on the local host.
+
+<span underline="single">Disconnect from a Desktop</span>
+
+When you disconnect from a virtual desktop, you remain logged in. Any programs running in the desktop remain open. You can reconnect to the desktop at any time and resume your session.
+
+To disconnect from within a desktop:
+1. Save any open files in the desktop.
+2. From the <b>Start</b> menu in the desktop, select <b>Disconnect</b>, or press <b>Ctrl+Alt+Del</b> and click <b>Disconnect</b>.
+
+<span underline="single">Log Off from a Desktop</span>
+
+When you log off a virtual desktop, the current session ends, all programs are closed, and any unsaved data is lost. You can log off from within the desktop, or from the View Client window.
+
+To log off from within a desktop:
+1. Save any open files in the desktop.
+2. From the <b>Start</b> menu, select <b>Log Off</b>.
+3. In the confirmation dialog box, click <b>Log Off</b>.
+You are prompted to save any open files if you have not already done so.
+
+To log off from within the View Client window:
+1. Click the down-arrow next to the checked out desktop to roll back.
+2. Select <b>Log Off</b>.
+
+<span underline="single">Reset a Desktop</span>
+
+When you reset a desktop, the desktop is closed and rebooted, and any unsaved data is lost. You must be logged into a desktop to reset it.
+
+You can reset a desktop from the View Client window, or from within the desktop itself.
+
+To reset a desktop from the View Client window:
+1. In the View Client window, click the down-arrow next to the desktop to be reset.
+2. Select <b>Reset</b>.
+3. Click <b>Reset</b> to confirm.
+
+To reset a desktop from within the desktop:
+1. Press <b>Ctrl+Alt+Del</b>.
+2. Click <b>Reset</b>.
+
+<span underline="single">Refresh the Desktop List</span>
+
+You can refresh the list of desktops to show changes since the list was last retrieved from the View Connection Server. To do this, press the <b>F5</b> key.

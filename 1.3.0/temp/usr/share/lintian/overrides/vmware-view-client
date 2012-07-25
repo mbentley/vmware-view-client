@@ -1,0 +1,2 @@
+#Partner packages may embed/bundle libs
+vmware-view-client: embedded-library

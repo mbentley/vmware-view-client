@@ -1,0 +1,12 @@
+<span underline="single">Log In to View Connection Server</span>
+
+After you connect to View Connection Server, you are prompted to log in using the user name and password supplied by your View administrator. Depending on how your system is configured, you might also be able to log in remotely using RSA SecurID, or by using a supported smart card. For specific instructions about how to log in using either of these methods, contact your View administrator.
+
+To log in:
+1. Connect to View Connection Server.
+2. In the login window, enter your user name and password.
+3. Select the appropriate domain from the drop-down menu.
+4. Click <b>Login</b>.
+5. If prompted to do so, enter your old password, enter and confirm your new password, and click <b>Change</b> to change your password.
+
+A list of the virtual desktops that you are authorized to use appears.

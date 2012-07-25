@@ -1,0 +1,62 @@
+﻿<span underline="single">Verbindungsherstellung mit einem Desktop</span>
+
+Nachdem Sie eine Verbindung mit View Connection Server hergestellt und sich angemeldet haben, können Sie sich mit einem virtuellen Desktop verbinden. Das View Client-Fenster zeigt eine Liste der Desktops, für deren Verwendung Sie autorisiert sind. Der Status der einzelnen Desktops wird ebenfalls angezeigt.
+
+So stellen Sie eine Verbindung mit einem Desktop her:
+1. Wählen Sie im View Client-Fenster einen Desktop aus der Liste aus.
+2. (Optional) Wählen Sie im Dropdown-Menü <b>Anzeige</b> die gewünschte Option. Bei Auswahl der Option <b>Vollbild</b> wird der Desktop im Vollbildmodus angezeigt. Wenn Sie die Option <b>Vollbild</b> auswählen und über mehrere Monitore verfügen, ziehen Sie das Fenster zur Desktop-Auswahl auf den Monitor, in dem Sie den Desktop anzeigen möchten.
+3. (Optional) In Abhängigkeit davon, wie Ihr View-Administrator das System konfiguriert hat, können Sie ein Anzeigeprotokoll auswählen. Klicken Sie auf den nach unten weisenden Pfeil, wählen Sie <b>Protokolle</b> und wählen Sie entweder <b>Microsoft RDP</b> oder <b>PCoIP</b> aus. Genaue Anweisungen erhalten Sie von Ihrem View-Administrator.
+4. Doppelklicken Sie auf den Desktop in der Liste, klicken Sie auf <b>Verbinden</b> oder klicken Sie auf den nach unten weisenden Pfeil und wählen Sie <b>Verbinden</b>.
+
+Ihre Auswahl wird für die nächste Verbindungsherstellung in den Einstellungen gespeichert.
+
+<span underline="single">Rollback eines Desktops</span>
+
+Sie können ein Rollback für einen virtuellen Desktop durchführen, der auf einem anderen Host ausgecheckt ist. Beim Ausführen eines Rollbacks für einen ausgecheckten Desktop werden alle Änderungen verworfen, die am Desktop vorgenommen wurden, und alle nicht auf dem Server gesicherten Daten gehen verloren.
+
+So führen Sie ein Rollback für einen Desktop aus:
+1. Klicken Sie auf den nach unten weisenden Pfeil neben dem ausgecheckten Desktop, für den Sie ein Rollback durchführen möchten.
+2. Wählen Sie <b>Rollback</b>.
+
+Der Auscheckvorgang auf dem Remote-Host wird abgebrochen und Sie können sich auf dem lokalen Client am Desktop anmelden.
+
+<span underline="single">Trennen der Verbindung mit einem Desktop</span>
+
+Wenn Sie die Verbindung mit einem virtuellen Desktop trennen, bleiben Sie weiterhin angemeldet. Alle im Desktop ausgeführten Programme bleiben geöffnet. Sie können sich jederzeit erneut mit dem Desktop verbinden und Ihre Sitzung fortsetzen.
+
+So trennen Sie die Verbindung vom Desktop aus:
+1. Speichern Sie alle auf dem Desktop geöffneten Dateien.
+2. Wählen Sie im Menü <b>Start</b> auf dem Desktop die Option <b>Trennen</b> oder drücken Sie die Tastenkombination <b>Strg+Alt+Entf</b> und klicken Sie auf <b>Trennen</b>.
+
+<span underline="single">Abmeldung von einem Desktop</span>
+
+Wenn Sie sich von einem virtuellen Desktop abmelden, wird die aktuelle Sitzung beendet. Dies bedeutet, dass alle Programme geschlossen werden und nicht gespeicherte Daten verloren gehen. Sie können sich vom Desktop aus oder über das View Client-Fenster abmelden.
+
+So melden Sie sich vom Desktop aus ab:
+1. Speichern Sie alle auf dem Desktop geöffneten Dateien.
+2. Wählen Sie im Menü <b>Start</b> die Option <b>Abmelden</b>.
+3. Klicken Sie im Bestätigungsdialogfeld auf <b>Abmelden</b>.
+Sie werden dazu aufgefordert, alle geöffneten Dateien zu speichern, sofern dies nicht bereits geschehen ist.
+
+So melden Sie sich über das View Client-Fenster ab:
+1. Klicken Sie auf den nach unten weisenden Pfeil neben dem ausgecheckten Desktop, von dem Sie sich abmelden möchten.
+2. Wählen Sie <b>Abmelden</b>.
+
+<span underline="single">Zurücksetzen eines Desktops</span>
+
+Wenn Sie einen Desktop zurücksetzen, wird der Desktop heruntergefahren und neu gestartet. Bei diesem Vorgang gehen nicht gespeicherte Daten verloren. Sie müssen an einem Desktop angemeldet sein, um ihn zurücksetzen zu können.
+
+Sie können einen Desktop über das View Client-Fenster oder vom Desktop selbst aus zurücksetzen.
+
+So setzen Sie einen Desktop über das View Client-Fenster zurück:
+1. Klicken Sie im View Client-Fenster auf den nach unten weisenden Pfeil neben dem Desktop, den Sie zurücksetzen möchten.
+2. Wählen Sie <b>Zurücksetzen</b>.
+3. Klicken Sie zur Bestätigung auf <b>Zurücksetzen</b>.
+
+So setzen Sie einen Desktop vom Desktop aus zurück:
+1. Drücken Sie <b>Strg+Alt+Entf</b>.
+2. Klicken Sie auf <b>Zurücksetzen</b>.
+
+<span underline="single">Aktualisieren der Desktop-Liste</span>
+
+Sie können die Liste der Desktops aktualisieren, um Änderungen seit dem letzten Abruf der Liste vom View Connection Server anzuzeigen. Drücken Sie hierzu auf <b>F5</b>.

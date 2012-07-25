@@ -1,0 +1,17 @@
+Package: vmware-view-client
+Version: 1.5.0-0
+Architecture: amd64
+Maintainer: Matt Bentley <mbentley@mbentley.net>
+Installed-Size: 30560
+Depends: libatk1.0-0 (>= 1.29.3), libc6 (>= 2.3.6-6~), libcairo2 (>= 1.2.4), libgcc1 (>= 1:4.1.1), libglib2.0-0 (>= 2.22.0), libgtk2.0-0 (>= 2.18.0), libpango1.0-0 (>= 1.14.0), libpcsclite1 (>= 1.5.3), libpixman-1-0, libpng12-0 (>= 1.2.13-4), libssl0.9.8 (>= 0.9.8k-1), libstdc++6 (>= 4.1.1), libx11-6 (>= 0), libxcursor1 (>> 1.1.2), libxext6 (>= 0), libxfixes3 (>= 1:4.0.1), libxi6 (>= 2:1.1.2), libxinerama1, libxml2 (>= 2.6.27), libxrandr2 (>= 2:1.2.0), libxrender1, libxtst6, ia32-libs, ia32-libs-gtk, zlib1g (>= 1:1.1.4), zenity
+Conflicts: vmware-view-open-client, vmware-view-pcoip
+Replaces: vmware-view-pcoip
+Section: net
+Priority: extra
+Homepage: http://www.vmware.com
+Description: Deliver rich, personalized virtual desktops with VMware View 5
+ The VMware View Client for Linux, optimized for VMware View 5, turns your
+ desktop into a thin client and connects you to your company's Virtual
+ Desktop Infrastructure. With VMware View 5 PCoIP capabilities you can
+ deliver a personalized high fidelity experience for end-users across
+ sessions, devices, operating systems, and legacy applications.

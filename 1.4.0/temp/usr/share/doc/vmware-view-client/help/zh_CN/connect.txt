@@ -1,0 +1,24 @@
+﻿<span underline="single">连接到 View Connection Server</span>
+
+您可以借助 VMware View Client 连接到可供您使用的虚拟桌面。有关您的虚拟桌面及桌面中所安装软件的更多信息，请与您的 View 管理员联系。
+
+View Client 将作为连接到 View Connection Server 的本机 Linux 应用程序运行。您必须先连接到 View Connection Server，才能登录并连接虚拟桌面。
+
+注意：View Client 每次只能连接一个 View Connection Server 实例。您必须提供服务器主机名或 IP 地址才能进行连接。
+
+要连接到 View Connection Server：
+1. 按照 View 管理员的指导启动 View Client。
+2. 从<b>地址</b>下拉菜单中选择您的 View Connection Server，或者输入服务器的主机名或 IP 地址。
+3. （可选）单击<b>选项</b>以查看或隐藏用于连接选定服务器的选项。请仅在 View 管理员的指导下配置这些选项。这些选项包括：
+
+<b>端口</b> - 端口条目设置为 View Connection Server 的默认端口。
+<b>使用安全连接 (SSL)</b> - 选择使用安全连接 (SSL) 可保护敏感的企业信息，确保所有连接均完全加密。您的 View 管理员可能会将 View Connection Server 配置为始终使用安全连接，即便您设置非安全连接也是如此。
+
+注意：您还可以通过在地址字段中直接键入端口和 SSL 选项来提供这些内容。
+对于非 SSL 连接，请键入：http://&lt;URL&gt;[:端口号]。对于 SSL 连接，请键入：https://&lt;URL&gt;[:端口号]。
+
+<b>启动时总是连接到此服务器</b> - 选择此选项可在您启动 View Client 时直接连接到当前的 View Connection Server 实例。如果您总是连接到相同的 View Connection Server，请选择该选项。如果未选择此选项，则当您启动 View Client 时，系统会提示您选择 View Connection Server。
+
+注意：如果连接失败，您将返回服务器选择对话框。如果连接成功，您可以通过在连接后出现的第一个对话框中单击<b>取消</b>来返回服务器选择对话框。
+
+4. 单击<b>连接</b>。

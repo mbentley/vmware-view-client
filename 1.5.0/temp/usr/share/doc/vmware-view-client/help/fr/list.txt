@@ -1,0 +1,124 @@
+<span underline="single">Se connecter à un poste de travail</span>
+
+
+
+Une fois la session ouverte sur Serveur de connexion View, vous pouvez vous connecter à un poste de travail virtuel. La fenêtre View Client affiche la liste des postes de travail, accompagnée de leur état actuel, que vous êtes autorisé à utiliser.
+
+
+
+Pour vous connecter à un poste de travail :
+
+1. Sélectionnez un poste de travail dans la liste de la fenêtre View Client.
+
+2. (Facultatif) Sélectionnez une option dans le menu déroulant <b>Affichage</b>. Le plein écran affiche le poste de travail sur la totalité de l'écran. Si vous sélectionnez Plein écran et que vous possédez plusieurs moniteurs, faites glisser la fenêtre de sélection de poste de travail sur le moniteur dans lequel vous souhaitez voir apparaître le poste de travail.
+
+3. (Facultatif) Selon la manière dont l'administrateur View a configuré le système, vous pouvez sélectionner un protocole d'affichage. Cliquez sur la flèche tournée vers le bas et sélectionnez <b>Protocols (Protocoles)</b>, puis Microsoft RDP ou PCoIP. Pour des instructions spécifiques, contactez l'administrateur View.
+
+4. Double-cliquez sur le poste de travail dans la liste et cliquez sur <b>Connect (Connecter)</b> ou bien cliquez sur la flèche tournée vers le bas et sélectionnez <b>Connect (Connecter)</b>.
+
+
+
+Vos sélections sont enregistrées comme préférences en vue de la prochaine connexion.
+
+
+
+<span underline="single">Restaurer un poste de travail</span>
+
+
+
+Vous pouvez restaurer un poste de travail virtuel que vous avez emprunté sur un hôte différent. La restauration d'un poste de travail emprunté supprime les modifications apportées au poste de travail et entraîne la perte des données non enregistrées sur le serveur.
+
+
+
+Pour restaurer un poste de travail :
+
+1. Cliquez sur la flèche tournée vers le bas à coté du poste de travail emprunté à restaurer.
+
+2. Sélectionnez <b>Rollback (Restaurer)</b>.
+
+
+
+L'emprunt sur l'hôte distant est annulé et vous pouvez maintenant ouvrir une session sur le poste de travail sur le client local.
+
+
+
+<span underline="single">Se déconnecter d'un poste de travail</span>
+
+
+
+Lorsque vous vous déconnectez d'un poste de travail virtuel, la session reste ouverte. Les programmes actifs sur le poste de travail restent ouverts. Vous pouvez vous reconnecter au poste de travail à tout moment et reprendre la session.
+
+
+
+Pour se déconnecter depuis un poste de travail :
+
+1. Enregistrez les fichiers ouverts sur le poste de travail.
+
+2. Dans le menu <b>Start (Démarrer)</b> du poste de travail, sélectionnez <b>Disconnect (Déconnecter)</b> ou appuyez sur <b>Ctrl+Alt+Suppr</b> et cliquez sur <b>Disconnect (Déconnecter)</b>.
+
+
+
+<span underline="single">Fermer une session sur un poste de travail</span>
+
+
+
+Lorsque vous fermez une session sur un poste de travail virtuel, la session prend fin, tous les programmes se ferment et les données non enregistrées sont perdues. Vous pouvez fermer la session depuis le poste de travail ou la fenêtre View Client.
+
+
+
+Pour fermer une session depuis un poste de travail :
+
+1. Enregistrez les fichiers ouverts sur le poste de travail.
+
+2. Dans le menu <b>Start (Démarrer)</b>, sélectionnez <b>Log off (Fermer la session)</b>.
+
+3. Dans la boîte de dialogue de confirmation, cliquez sur <b>Log Off (Fermer la session)</b>.
+
+Vous êtes invité à enregistrer les fichiers ouverts si ce n'est pas déjà fait.
+
+
+
+Pour fermer une session dans la fenêtre View Client :
+
+1. Cliquez sur la flèche tournée vers le bas à coté du poste de travail emprunté à restaurer.
+
+2. Sélectionnez <b>Log Off (Fermer la session)</b>.
+
+
+
+<span underline="single">Réinitialiser un poste de travail</span>
+
+
+
+Lorsque vous réinitialisez un poste de travail, le poste de travail se ferme et redémarre, et toutes les données non enregistrées sont perdues. Vous devez avoir ouvert une session sur un poste de travail pour pouvoir le réinitialiser.
+
+
+
+Vous pouvez réinitialiser un poste de travail depuis la fenêtre View Client ou dans le poste de travail lui-même.
+
+
+
+Pour réinitialiser un poste de travail depuis la fenêtre View Client :
+
+1. Dans la fenêtre View Client, cliquez sur la flèche tournée vers le bas à côté du poste de travail à réinitialiser.
+
+2. Sélectionnez <b>Reset (Réinitialiser)</b>.
+
+3. Cliquez sur <b>Reset (Réinitialiser)</b> pour confirmer.
+
+
+
+Pour réinitialiser un poste de travail depuis le poste de travail :
+
+1. Appuyez sur <b>Ctrl+Alt+Suppr</b>.
+
+2. Cliquez sur <b>Reset (Réinitialiser)</b>.
+
+
+
+<span underline="single">Actualiser la liste des postes de travail</span>
+
+
+
+Vous pouvez actualiser la liste des postes de travail pour afficher les modifications depuis la dernière extraction de la liste depuis le serveur Serveur de connexion View. Pour ce faire, appuyez sur la touche <b>F5</b>.
+

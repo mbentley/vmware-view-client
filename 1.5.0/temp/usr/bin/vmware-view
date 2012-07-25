@@ -1,0 +1,26 @@
+#!/bin/sh
+
+LICENSE_ACCEPTED=~/.vmware-view-client.license-accepted
+if [ ! -e $LICENSE_ACCEPTED ]; then
+   zenity --ok-label=Agree \
+          --title EULA \
+          --height 550 --width=500 \
+          --text-info \
+          --filename=/usr/share/doc/vmware-view-client/VMware-view-client-EULA-en.txt
+   # needed for lucid, maverick, natty as --text-info does not show
+   # the "ok", "cancel"  buttons for a text-info there
+   zenity --question --text "Do you agree to the terms?" \
+          --ok-label=Agree --cancel-label=Cancel
+
+   res=$?
+   if [ $res -eq 0 ]; then
+      touch $LICENSE_ACCEPTED
+   else
+      exit 1
+   fi
+fi
+
+# run the real thing
+export GTK_PATH=/usr/lib32/gtk-2.0
+export LD_LIBRARY_PATH=/usr/lib32
+exec vmware-view.bin "$@"

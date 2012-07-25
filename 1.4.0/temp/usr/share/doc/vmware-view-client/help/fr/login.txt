@@ -1,0 +1,12 @@
+﻿<span underline="single">Ouvrir une session sur View Connection Server</span>
+
+Une fois connecté à View Connection Server, vous êtes invité à ouvrir une session en utilisant le nom d’utilisateur et le mot de passe fournis par votre administrateur View. En fonction de la configuration du système, il est possible que vous puissiez également ouvrir une session à distance avec RSA SecurID, ou à l'aide d'une carte à puce prise en charge. Pour plus d'informations spécifiques sur la méthode d'ouverture de session avec l'une ou l'autre de ces méthodes, contactez votre administrateur View.
+
+Pour ouvrir une session :
+1. Connectez-vous à View Connection Server.
+2. Dans la fenêtre d'ouverture de session, entrez votre nom d'utilisateur et votre mot de passe.
+3. Sélectionnez le domaine approprié dans le menu déroulant.
+4. Cliquez sur <b>Login (Connexion)</b>.
+5. Si vous y êtes invité, saisissez votre ancien mot de passe, saisissez et confirmez votre nouveau mot de passe et cliquez sur <b>Change (Modifier)</b> pour modifier votre mot de passe.
+
+Une liste des postes de travail virtuels que vous êtes autorisé à utiliser s'affiche.

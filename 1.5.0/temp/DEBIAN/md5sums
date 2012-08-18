@@ -13,6 +13,10 @@ ed3ed4617b828736391c26ed5861d628  usr/share/doc/vmware-view-client/VMware-view-c
 aef604618e8f66012158c650eee6f665  usr/share/doc/vmware-view-client/VMware-view-client-EULA-en.txt
 3e0916375ad3cfde89acc970a5971ca3  usr/share/doc/vmware-view-client/VMware-view-client-EULA-zh_CN.txt
 c27ecd586e18a88df5ff39bc29333d89  usr/share/doc/vmware-view-client/VMware-view-client-EULA-fr.txt
+ab66f7635f259db74f315edf0da235de  usr/share/doc/vmware-view-client/VMware-view-client-EULA-ja.txt
+1e59efcb8a84536c421b907861ee0774  usr/share/doc/vmware-view-client/open_source_licenses.txt
+218036cbb354ae64a97890a3687a852f  usr/share/doc/vmware-view-client/VMware-view-client-EULA-de.txt
+b77cb94349bc3ebfb885d071a0525bcc  usr/share/doc/vmware-view-client/changelog.Debian.gz
 004cc07fcbf936ca2e837ae107bced43  usr/share/doc/vmware-view-client/help/en/login.txt
 a86538171bf6e0d89305455f0bd84666  usr/share/doc/vmware-view-client/help/en/list.txt
 0434aab101fd613baf1fde057bb09be9  usr/share/doc/vmware-view-client/help/en/connect.txt
@@ -29,15 +33,12 @@ dc37629b318361795b53a6a87f453b38  usr/share/doc/vmware-view-client/help/de/login
 4a49b5b7a7e23de6edc5846d59b17f72  usr/share/doc/vmware-view-client/help/de/list.txt
 d501a5299178816d6ee32e88e85df4ec  usr/share/doc/vmware-view-client/help/de/connect.txt
 0752dac5dea9486894c7944c595f2254  usr/share/doc/vmware-view-client/patches/rdesktop-1.6.0-win7scard.patch
-ab66f7635f259db74f315edf0da235de  usr/share/doc/vmware-view-client/VMware-view-client-EULA-ja.txt
-1e59efcb8a84536c421b907861ee0774  usr/share/doc/vmware-view-client/open_source_licenses.txt
-218036cbb354ae64a97890a3687a852f  usr/share/doc/vmware-view-client/VMware-view-client-EULA-de.txt
-b77cb94349bc3ebfb885d071a0525bcc  usr/share/doc/vmware-view-client/changelog.Debian.gz
 9dfbde54cd960179177c028676299fad  usr/share/applications/vmware-view-client.desktop
-78d7a9919b131ac5e16f11f745f2706f  usr/lib32/pcoip/vchan_plugins/libscredirvchanclient.so
-3e439470d6c2d4347d6d959de48abe3e  usr/lib32/pcoip/vchan_plugins/libmksvchanclient.so
 d37b2127d2d20d2036a849de0097b53d  usr/lib32/libpcoip_client.so
 b233095e00f8ff08a1c45cc302ff749e  usr/lib32/libpcoip_crypto_non_fips.so
+c92f1128db955ee0b69d21524f0cbc20  usr/lib32/libpcoip_crypto.so
+78d7a9919b131ac5e16f11f745f2706f  usr/lib32/pcoip/vchan_plugins/libscredirvchanclient.so
+3e439470d6c2d4347d6d959de48abe3e  usr/lib32/pcoip/vchan_plugins/libmksvchanclient.so
 3122074cb91d9491b5877cba2e2c45d1  usr/lib32/vmware/xkeymap/de104
 327f881a94a38f165a7252b6394d248f  usr/lib32/vmware/xkeymap/no104
 acf552272b5c5c143fce6a87800eb483  usr/lib32/vmware/xkeymap/pt101
@@ -70,4 +71,3 @@ a94866d5e8be3690d0d8fbfa1edb42ae  usr/lib32/vmware/xkeymap/chfr101
 3ddf77171d53c339686b8d74e4fa9b22  usr/lib32/vmware/xkeymap/pt104
 8e12a7ac107ef157d5a96290543fe924  usr/lib32/vmware/xkeymap/jp106
 3b60adc337620ec01c678e3c78e6b77b  usr/lib32/vmware/xkeymap/it104
-c92f1128db955ee0b69d21524f0cbc20  usr/lib32/libpcoip_crypto.so

@@ -1,0 +1,48 @@
+<span underline="single">Verbinden mit View-Verbindungsserver</span>
+
+
+
+Mit VMware View Client können Sie eine Verbindung mit den virtuellen Desktops herstellen, die zu Ihrer Verwendung zur Verfügung stehen. Wenn Sie weitere Informationen zu Ihren virtuellen Desktops und der darauf installierten Software benötigen, wenden Sie sich an Ihren View-Administrator.
+
+
+
+View Client wird als native Linux-Anwendung ausgeführt, die eine Verbindung mit View-Verbindungsserver herstellt. Sie müssen eine Verbindung mit View-Verbindungsserver herstellen, bevor Sie sich mit einem virtuellen Desktop verbinden und sich am Desktop anmelden können.
+
+
+
+Hinweis: View Client kann zu jedem Zeitpunkt nur mit einer Instanz von View-Verbindungsserver verbunden sein. Zur Verbindungsherstellung müssen Sie den Hostnamen oder die IP-Adresse des Servers angeben.
+
+
+
+So stellen Sie eine Verbindung mit View-Verbindungsserver her:
+
+1. Starten Sie View Client gemäß den Anweisungen Ihres View-Administrators.
+
+2. Wählen Sie im Dropdown-Menü <b>Address (Adresse)</b> Ihre View-Verbindungsserver-Instanz aus oder geben Sie den Hostnamen oder die IP-Adresse des Servers ein.
+
+3. (Optional) Klicken Sie auf <b>Optionen</b>, um die Optionen zur Verbindungsherstellung mit dem ausgewählten Server anzuzeigen oder auszublenden. Konfigurieren Sie diese Optionen nur dann, wenn Sie von Ihrem View-Administrator dazu aufgefordert werden. Folgende Optionen stehen zur Verfügung:
+
+
+
+<b>Port</b> – Der Port ist auf den Standardport für View-Verbindungsserver festgelegt.
+
+<b>Sichere Verbindung verwenden (SSL)</b> – Verwenden Sie eine sichere Verbindung (SSL), um vertrauliche Unternehmensinformationen zu schützen und sicherzustellen, dass alle Verbindungen vollständig verschlüsselt werden. Ihr View-Administrator hat View-Verbindungsserver möglicherweise so konfiguriert, dass immer eine sichere Verbindung verwendet werden muss, selbst wenn Sie eine nicht sichere Verbindung auswählen.
+
+
+
+Hinweis: Sie können den Port und die SSL-Optionen auch angeben, indem Sie sie direkt in das Adressfeld eingeben.
+
+Geben Sie für eine Nicht-SSL-Verbindung Folgendes ein: http://&lt;URL&gt;[:Portnummer]. Für eine SSL-Verbindung geben Sie Folgendes ein: https://&lt;URL&gt;[:Portnummer].
+
+
+
+<b>Beim Start immer mit diesem Server verbinden</b> – Wählen Sie diese Option, um beim Start von View Client sofort eine Verbindung mit der aktuellen Instanz von View-Verbindungsserver herzustellen. Wählen Sie diese Option, wenn Sie immer eine Verbindung mit derselben View-Verbindungsserver-Instanz herstellen. Wenn Sie diese Option deaktivieren, werden Sie beim Start von View Client zur Auswahl von einem View-Verbindungsserver aufgefordert.
+
+
+
+Hinweis: Wenn die Verbindung fehlschlägt, wird erneut das Dialogfeld zur Serverauswahl angezeigt. Nach erfolgreicher Verbindungsherstellung können Sie zum Dialogfeld für die Serverauswahl zurückkehren, indem Sie im ersten Dialogfeld, das nach der Verbindungsherstellung angezeigt wird, auf <b>Abbrechen</b> klicken.
+
+
+
+4. Klicken Sie auf <b>Verbinden</b>.
+

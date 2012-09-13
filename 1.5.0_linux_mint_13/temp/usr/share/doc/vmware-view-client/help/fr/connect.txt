@@ -1,0 +1,48 @@
+<span underline="single">Se connecter à Serveur de connexion View</span>
+
+
+
+Avec VMware View Client, vous pouvez vous connecter aux postes de travail virtuels disponibles à votre utilisation. Pour plus d'informations sur les postes de travail virtuels et sur les logiciels installés, contactez votre administrateur View.
+
+
+
+View Client s’exécute en tant qu’application Linux native se connectant à Serveur de connexion View. Vous devez vous connecter à Serveur de connexion View avant de pouvoir ouvrir une session et vous connecter à un poste de travail virtuel.
+
+
+
+Remarque : View Client ne peut se connecter qu'à une seule instance de Serveur de connexion View à la fois. Pour vous connecter, vous devez être capable de fournir le nom d’hôte ou l’adresse IP du serveur.
+
+
+
+Pour vous connecter à Serveur de connexion View :
+
+1. Démarrez View Client comme vous l’a indiqué votre administrateur View.
+
+2. Sélectionnez Serveur de connexion View dans le menu déroulant <b>Adresse</b> ou saisissez le nom d'hôte ou l'adresse IP du serveur.
+
+3. (Facultatif) Cliquez sur <b>Options</b> pour afficher ou masquer les options de connexion au serveur sélectionné. Ne configurez ces options que si votre administrateur View le préconise. Les options sont les suivantes :
+
+
+
+<b>Port</b> - L'entrée de port est définie sur le port par défaut pour Serveur de connexion View.
+
+<b>Utiliser une connexion sécurisée (SSL)</b> - Choisissez d'utiliser une connexion sécurisée (SSL) pour protéger les informations d'entreprise sensibles et vous assurer que toutes les connexions sont entièrement cryptées. Votre administrateur View peut avoir configuré Serveur de connexion View pour qu'il utilise toujours une connexion sécurisée, même si vous définissez une connexion non sécurisée.
+
+
+
+Remarque : vous pouvez également fournir les options de port et SSL en les saisissant dans le champ d'adresse directement.
+
+Pour une connexion non-SSL, saisissez : http://&lt;URL&gt;[:port number]. Pour une connexion SSL, saisissez : https://&lt;URL&gt;[:port number].
+
+
+
+<b>Toujours se connecter à ce serveur au démarrage</b> - Cochez cette option pour vous connecter directement à l'instance actuelle de Serveur de connexion View au démarrage de View Client. Sélectionnez cette option si vous vous connectez toujours au même Serveur de connexion View. Si vous ne la cochez pas, vous êtes invité à choisir un serveur Serveur de connexion View au démarrage de View Client.
+
+
+
+Remarque : si la connexion échoue, vous revenez à la boîte de dialogue de sélection de serveur. Si la connexion réussit, vous pouvez revenir à la boîte de dialogue de sélection de serveur en cliquant sur <b>Annuler</b> dans la première boîte de dialogue qui apparaît lors de la connexion.
+
+
+
+4. Cliquez sur <b>Se connecter</b>.
+

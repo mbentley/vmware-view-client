@@ -1,0 +1,24 @@
+<span underline="single">Anmelden an View-Verbindungsserver</span>
+
+
+
+Nach der Verbindungsherstellung mit View-Verbindungsserver werden Sie zur Eingabe von Benutzername und Kennwort aufgefordert (diese Informationen werden von Ihrem View-Administrator bereitgestellt). Abhängig davon, wie Ihr System eingerichtet ist, können Sie sich unter Verwendung von RSA SecurID oder über eine unterstützte Smartcard auch remote anmelden. Genaue Anweisungen zur Anmeldung über eine dieser Methoden erhalten Sie von Ihrem View-Administrator.
+
+
+
+So melden Sie sich an:
+
+1. Stellen Sie eine Verbindung mit View-Verbindungsserver her.
+
+2. Geben Sie im Anmeldefenster Ihren Benutzernamen und das zugehörige Kennwort ein.
+
+3. Wählen Sie im Dropdown-Menü die geeignete Domäne aus.
+
+4. Klicken Sie auf <b>Anmelden</b>.
+
+5. Geben Sie bei Aufforderung Ihr altes Kennwort ein. Geben Sie anschließend ein neues Kennwort ein und bestätigen Sie es, und klicken Sie auf <b>Ändern</b>, um Ihr Kennwort zu ändern.
+
+
+
+Es wird eine Liste der virtuellen Desktops angezeigt, für deren Verwendung Sie autorisiert sind.
+

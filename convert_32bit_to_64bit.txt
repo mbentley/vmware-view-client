@@ -1,4 +1,4 @@
-If you need a program like Adobe Air which does not have 64-bit .deb-package available for your Debian-based system here is way to fix package and get it to work in 64bit systems.
+Convert .deb from 32 to 64 bit
 
 1. Download .deb package of program you want to install
 
@@ -15,7 +15,6 @@ If you need a program like Adobe Air which does not have 64-bit .deb-package ava
 7. Now you can install it: sudo dpkg -i PACKAGE_NAME_64.deb
 
 That’s it! Working like a charm in my Ubuntu 10.10 64bit system.
-
 
 
 

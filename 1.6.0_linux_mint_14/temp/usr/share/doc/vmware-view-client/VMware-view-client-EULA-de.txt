@@ -1,0 +1,638 @@
+﻿VMWARE-ENDBENUTZER-LIZENZVEREINBARUNG
+
+BITTE BEACHTEN SIE, DASS DIE BEDINGUNGEN DIESER ENDBENUTZER-
+LIZENZVEREINBARUNG DIE VERWENDUNG DER SOFTWARE REGELN, UNABHÄNGIG VON DEN 
+BEDINGUNGEN, DIE MÖGLICHERWEISE BEI DER INSTALLATION DER SOFTWARE 
+ANGEZEIGT WERDEN. 
+
+WICHTIG - BITTE SORGFÄLTIG LESEN:  INDEM SIE DIESE SOFTWARE 
+HERUNTERLADEN, INSTALLIEREN ODER VERWENDEN, ERKENNEN SIE (ALS NATÜRLICHE 
+ODER JURISTISCHE PERSON) DIE REGELUNGEN IN DIESER ENDBENUTZER-
+LIZENZVEREINBARUNG ("EULA") ALS BINDEND AN.  WENN SIE MIT DEN REGELUNGEN 
+IN DIESER EULA NICHT EINVERSTANDEN SIND, DÜRFEN SIE DIE SOFTWARE WEDER 
+HERUNTERLADEN, INSTALLIEREN ODER VERWENDEN, UND SIE MÜSSEN DIE UNBENUTZTE 
+SOFTWARE LÖSCHEN ODER INNERHALB VON DREISSIG (30) TAGEN AN DEN HÄNDLER, 
+BEI DEM SIE SIE ERWORBEN HABEN, ZURÜCKGEBEN UND EINE ETWAIGE 
+LIZENZGEBÜHR, SOFERN BEZAHLT, ZURÜCKFORDERN.
+
+EVALUIERUNGSLIZENZ.  Wenn Sie die Software zu Evaluierungszwecken 
+lizenzieren, darf die Software ausschließlich in einer Nicht-
+Produktionsumgebung nicht kommerziell und in dem durch den 
+Lizenzschlüssel beschränkten Zeitraum verwendet werden.  Ungeachtet aller 
+anderen Regelungen dieser EULA wird eine Evaluierungslizenz der Software 
+"wie besehen" ohne Anspruch auf Freistellung, Support oder Gewährleistung 
+jedweder Art, weder ausdrücklich noch konkludent, geliefert.
+
+1.	DEFINITIONEN.
+
+1.1 "Tochtergesellschaft" bezeichnet hinsichtlich einer Partei eine 
+juristische Person, die direkt oder indirekt von dieser Partei 
+kontrolliert wird oder sich gemeinsam mit dieser Partei unter der 
+Kontrolle Dritter befindet, wobei "kontrolliert" das Eigentum, das 
+Stimmrecht oder ein ähnliches Recht bezeichnet, bei dem fünfzig Prozent 
+(50 %) oder mehr der ausgegebenen Gesamtanteile der entsprechenden 
+juristischen Person vertreten sind (aber nur so lange eine solche Person 
+oder juristische Person diese Anforderungen erfüllt).
+
+1.2	"Dokumentation" bezeichnet die Dokumentation, die Ihnen 
+üblicherweise von VMware zusammen mit der Software zur Verfügung gestellt 
+und von VMware von Zeit zu Zeit überarbeitet wird und zu der Handbücher 
+für Endbenutzer, Betriebsanleitungen, Installationshandbücher, 
+Versionshinweise und Online-Hilfedateien bezüglich der Nutzung der 
+Software gehören können.
+
+1.3	"Gastbetriebssysteme" bezeichnet Instanzen von Betriebssystemen von 
+Dritten, für die Sie eine Lizenz besitzen und die in einer virtuellen 
+Maschine installiert sind und unter Verwendung der Software ausgeführt 
+werden.
+
+1.4	"Geistige Eigentumsrechte" bezeichnet alle weltweiten Rechte an 
+geistigem Eigentum, einschließlich und ohne Einschränkung Urheberrechten, 
+Warenzeichen, Dienstleistungsmarken, Geschäftsgeheimnissen, Know-how, 
+Erfindungen, Patenten, Patentanmeldungen, Urheberpersönlichkeitsrechte 
+und jeglicher anderer Eigentumsrechte unabhängig davon, ob eingetragen 
+oder nicht. 
+
+1.5	"Lizenz" bezeichnet eine gemäß Abschnitt 2.1 gewährte Lizenz. 
+
+1.6	"Lizenzschlüssel" bezeichnet eine Seriennummer, die es Ihnen 
+ermöglicht, die Software zu aktivieren und zu nutzen.
+
+1.7	"Lizenzlaufzeit " bezeichnet die Laufzeit einer Lizenz, wie im 
+Auftrag angegeben.
+
+1.8	"Lizenztyp " bezeichnet den Typ der Lizenz für die Software, der im 
+Auftrag detaillierter beschrieben ist.
+
+1.9 "Open Source-Software" oder "OSS" bezeichnet Softwarekomponenten, die 
+unter einer Lizenz, die von der Open Source Initiative ("OSI") 
+freigegeben wurde, oder unter einer ähnlichen Open Source- oder Freeware-
+Lizenz lizenziert und in der ausgelieferten Software eingebettet sind. 
+
+1.10 "Auftrag" bezeichnet eine Bestellung, Enterprise-Lizenzvereinbarung 
+oder ein anderes Bestelldokument, das Sie an VMware oder einen 
+autorisierten VMware-Händler ausgefertigt oder mit diesem abgeschlossen 
+haben und das auf diese Endbenutzer-Lizenzvereinbarung verweist bzw. sie 
+enthält und das gemäß Abschnitt 4 von VMware angenommen wurde. 
+
+1.11 "Produkthandbuch" bezeichnet die aktuelle Version des VMware 
+Produkthandbuchs zum Zeitpunkt Ihres Auftrags. Kopien davon stehen unter 
+www.vmware.com/de/download/eula zur Verfügung.
+
+1.12 "Service-Bestimmungen" bezeichnet die aktuellen Bestimmungen des 
+VMware Support- und Subscription-Vertrags. Kopien davon stehen unter at 
+www.vmware.com/files/pdf/support/support_terms_conditions.pdf zur 
+Verfügung.
+
+1.13	"Software" bezeichnet VMware Tools und die VMware-
+Computerprogramme, die auf der gewerblichen Preisliste von VMware 
+aufgeführt sind und für die Sie in Zusammenhang mit einem Auftrag eine 
+Lizenz erhalten, zusammen mit einem etwaigen diesbezüglichen 
+Softwarecode, der Ihnen im Rahmen eines Support- und Abonnements-Service-
+Vertrags zur Verfügung gestellt wird und keiner separaten 
+Lizenzvereinbarung unterliegt.
+
+1.14 "Gebiet" bezeichnet das Land oder die Länder, in dem bzw. denen 
+Ihnen die Rechnung zugestellt wurde. Sofern Ihnen jedoch die Rechnung in 
+einem Land des Europäischen Wirtschaftsraums zugestellt wurde, dürfen Sie 
+die entsprechende Software in jedem Land des Europäischen 
+Wirtschaftsraums einsetzen. 
+
+1.15 "Mitarbeiter eines Dritten" bezeichnet eine dritte Partei, die gemäß 
+eines mit Ihnen abgeschlossenen schriftlichen Vertrags IT-Dienste für Sie 
+bereitstellt.
+
+1.16	"Virtuelle Maschine" bezeichnet einen Softwarecontainer, der sein 
+eigenes Betriebssystem und Anwendungen wie eine physische Maschine 
+ausführen kann.
+
+1.17	"VMware" bezeichnet VMware, Inc., ein im US-Bundesstaat Delaware 
+eingetragenes Unternehmen, sofern Sie Lizenzen oder Dienste für die 
+Verwendung in den USA erwerben, und VMware International Limited, ein 
+Unternehmen, das irischem Gesetz unterliegt, für alle anderen Käufe.
+
+1.18	"VMware Tools" bezeichnet die von VMware unter dem Namen "VMware 
+Tools" lizenzierte Serie von Dienstprogrammen und Treibern, die in einem 
+Gastbetriebssystem installiert werden kann, um die Leistung und die 
+Funktionalität eines in einer virtuellen Maschine ausgeführten 
+Gastbetriebssystems zu verbessern.
+
+2.		LIZENZGEWÄHRUNG.
+
+2.1	Umfang der Lizenz.  Gemäß den Bestimmungen und Bedingungen dieses 
+EULA gewährt Ihnen VMware während der Lizenzlaufzeit eine nicht 
+exklusive, nicht übertragbare Lizenz für die Verwendung der Software nur 
+in Objektform innerhalb des Gebiets für Ihre unternehmensinternen 
+Vorgänge gemäß (a) der Dokumentation, (b) dem Lizenztyp, für den Sie die 
+geltenden Gebühren entrichtet haben, (c) anderen im Auftrag dargelegten 
+geltenden Einschränkungen.  Die Lizenz für die Software beschränkt sich 
+auf die im jeweiligen Auftrag angegebenen Mengen.
+
+2.2	Nutzung durch Dritte. Gemäß der Ihnen unter Abschnitt 2.1 gewährten 
+Lizenz dürfen Sie von Ihnen beauftragten Dritten erlauben, in Ihrem Namen 
+auf die Software zuzugreifen und/oder sie zu bedienen zu dem 
+ausschließlichen Zweck, Dienste für Sie zu erbringen, sofern Sie für die 
+Einhaltung mit den Bestimmungen und Bedingungen dieses EULA durch die von 
+Ihnen beauftragten Mitarbeiter eines Dritten die volle Verantwortung 
+übernehmen. Jeder Verstoß gegen dieses EULA durch einen von Ihnen 
+beauftragten Dritten wird als ein Verstoß durch Sie betrachtet. 
+
+2.3	Zulässige Kopien. Sie dürfen eine Kopie der Software ausschließlich 
+zu Archivierungszwecken anfertigen. Die Kopie muss: (a) in Ihrem Besitz 
+oder unter Ihrer Kontrolle gehalten werden, (b) alle Titel, Warenzeichen 
+und Hinweise auf Copyright und eingeschränkte Rechte der Originalsoftware 
+beibehalten, und (c) diesem EULA unterliegen. Anderweitig dürfen Sie die 
+Software ohne die vorherige schriftliche Zustimmung von VMware nicht 
+kopieren.
+
+2.4	Benchmarking.  Sie dürfen die Software zum Durchführen von interne 
+Leistungstests und Benchmarking-Studien verwenden. Sie dürfen die 
+Ergebnisse solcher Studien nur wie folgt an Dritte veröffentlichen oder 
+anderweitig weitergeben:  (a) in Bezug auf die VMware-Produkte 
+Workstation oder Fusion nur dann, wenn Sie vor der Weitergabe eine Kopie 
+Ihrer Studie an benchmark@vmware.com senden, (b) in Bezug auf andere 
+Software nur dann, wenn vor einer solchen Veröffentlichung und Verteilung 
+VMware die Methodik, Annahmen und andere Parameter der Studie überprüft 
+und genehmigt hat (wenden Sie sich bitte an VMware unter 
+benchmark@vmware.com, um eine solche Prüfung und Genehmigung 
+anzufordern). 
+
+2.5	VMware Tools. Sie dürfen VMware Tools (ob als Teil der virtuellen 
+Maschine, die Sie mit der Software erstellen, oder nicht) an Dritte nur 
+weitergeben, wenn es in einem Gastbetriebssystem nur zu dem Zweck 
+installiert ist, um dessen Leistung und Funktionalität zu verbessern, 
+wenn es in einer virtuellen Maschine ausgeführt wird, sofern Sie für die 
+Einhaltung der Bestimmungen und Bedingungen dieses EULA durch Dritte die 
+volle Verantwortung übernehmen. Jeder Verstoß gegen dieses EULA durch 
+Dritte wird als ein Verstoß durch Sie betrachtet.
+
+2.6	Open Source-Software.  Ungeachtet anderslautender Bestimmungen wird 
+Open Source-Software unter eigenen OSS-Lizenzbedingungen lizenziert. 
+Diese finden Sie in der Textdatei open_source_licenses.txt, der 
+Dokumentation bzw. in den entsprechenden Quelldateien der Software unter 
+http://www.vmware.com/download/open_source.html. Diese OSS-
+Lizenzbedingungen entsprechen der im Abschnitt 2 gewährten Lizenz und 
+enthalten möglicherweise zusätzliche Rechte, die Ihren zugutekommen.  Die 
+OSS-Lizenzbedingungen haben Vorrang vor diesem EULA, soweit dieses EULA 
+größere Einschränkungen für Sie als die geltenden OSS-Lizenzbedingungen 
+auferlegt.
+
+3.	EINSCHRÄNKUNGEN, GEISTIGES EIGENTUM.
+
+3.1	Einschränkungen.  Sie erkennen an, dass die Software und die 
+Struktur, die Organisation und der Quellcode der Software wertvolle 
+Betriebsgeheimnisse von VMware darstellen.  Sofern nicht im Abschnitt 2 
+ausdrücklich vorgesehen oder anderweitig von VMware schriftlich 
+autorisiert, werden Sie es unterlassen und Dritten nicht erlauben: (a) 
+die Software oder die Dokumentation ganz oder teilweise an Dritte zu 
+verkaufen, zu vermieten, zu lizenzieren, weiterzugeben, Unterlizenzen zu 
+vergeben oder anderweitig zu übertragen, (b) die Software ganz oder in 
+Teilen zu dekompilieren, disassemblieren, zurückzuentwickeln oder auf 
+andere Weise zu versuchen, den Quellcode abzuleiten, (c) die Software 
+außer zu Archivierungszwecken zu kopieren, wie in Abschnitt 2.3 
+festgehalten, (d) Software oder Dienste zu erstellen, zu entwickeln, zu 
+lizenzieren, zu installieren, zu nutzen oder bereitzustellen, um den 
+Zugriff, Berechtigungen oder Rechte zu umgehen, zu aktivieren, zu ändern 
+oder zu ermöglichen, die die in diesem EULA festgelegten technischen 
+Beschränkungen der Software verletzen, (e) abgeleitete Werke auf der 
+Basis der Software zu übersetzen, zu ändern oder zu erstellen, (f) die 
+Nutzung der oder den Zugriff auf die Software durch Dritte zuzulassen, 
+(g) Hinweise zur Produktidentifikation, zu Schutzrechtsvermerken, 
+Copyright- oder andere in der Software enthaltene Hinweise zu entfernen, 
+oder (h) die Software im Namen von oder zugunsten von Dritten zu 
+betreiben, einschließlich des Betreibens eines Diensts, auf den Dritte 
+zugreifen, mit der Ausnahme, dass Sie zum Zwecke dieses Abschnitts 3.1 
+(h). Sie dürfen die Software zum Bereitstellen von gehosteten Diensten an 
+Ihre Tochtergesellschaften nutzen.
+
+3.2	Dekompilierung.  Ungeachtet der vorangehenden Bestimmungen ist das 
+Dekompilieren der Software zulässig, soweit die Gesetze des jeweiligen 
+Landes dies Ihnen ausdrücklich erlauben, um die Informationen abzurufen, 
+die notwendig sind, um die Software zusammen mit anderer Software 
+interoperabel zu betreiben, vorausgesetzt, Sie fordern zuerst solche 
+Informationen von VMware (unter info@vmware.com) an, Sie stellen VMware 
+alle vernünftigerweise angeforderten Informationen zur Beurteilung Ihres 
+Anspruchs zur Verfügung, und VMware darf nach eigenem Ermessen entweder 
+solche Interoperabilitätsinformationen bereitstellen, angemessene 
+Bedingungen hinsichtlich einer solchen Nutzung der Software, 
+einschließlich einer angemessenen Gebühr, oder Alternativen anbieten, um 
+den Schutz der geistigen Eigentumsrechte von VMware an der Software 
+sicherzustellen und jegliche nachteilige Auswirkungen auf die 
+Eigentumsrechte von VMware so gering wie möglich zu halten.
+
+3.3	Geistige Eigentumsrechte.  Die Software und Dokumentation, alle 
+Kopien und Teile davon, sowie alle Verbesserungen, Erweiterungen, 
+Änderungen und Derivate davon, sowie alle geistigen Eigentumsrechte daran 
+sind und bleiben alleiniges und exklusives Eigentum von VMware und seinen 
+Lizenzgebern. Ihre Nutzungsrechte an der Software und der Dokumentation 
+beschränken sich auf die in diesem EULA und dem jeweiligen Auftrag 
+ausdrücklich gewährten Rechte.  Keine weiteren Rechte in Bezug auf die 
+Software oder damit verbundenen Rechte an geistigem Eigentum werden Ihnen 
+konkludent eingeräumt.  Sie sind nur berechtigt, die Software, die 
+Dokumentation oder Teile davon zu nutzen (oder Dritten die Nutzung zu 
+gestatten), soweit die Nutzung in diesem EULA oder dem jeweiligen Auftrag 
+ausdrücklich gestattet ist. 
+
+3.4	Gastbetriebssysteme. Bestimmte Software ermöglicht die Ausführung 
+von Gastbetriebssystemen und Anwendungsprogrammen auf einem 
+Computersystem. Sie stimmen zu, dass Sie für den Erhalt und die 
+Einhaltung aller notwendigen Lizenzen verantwortlich sind, die für das 
+Betreiben von Drittanbieter-Software erforderlich sind.
+
+4.	AUFTRAG. Ihr Auftrag unterliegt diesem EULA.  Aufträge sind nur 
+dann für VMware bindend, wenn sie von VMware angenommen wurden.  Aufträge 
+für Software gelten als angenommen, wenn VMware die Software gemäß einem 
+solchen Auftrag liefert. Aufträge, die an VMware erteilt werden, müssen 
+nicht unterzeichnet werden, um gültig und durchsetzbar zu sein.
+
+5.	AUDIT-RECHTE.
+
+5.1	Aufzeichnungen. Sie werden während der Laufzeit für alle unter 
+diesem EULA erworbenen Softwarelizenzen (und für einen Zeitraum von zwei 
+(2) Jahren nach dem Ablauf der jeweiligen Lizenzlaufzeit) genaue 
+Aufzeichnungen über Ihre Nutzung der Software führen, die ausreichend 
+sind, um die Einhaltung der Bestimmungen dieses EULA und aller Aufträge 
+nachzuweisen.  
+
+5.2	Audit-Rechte. Während des Zeitraums, in dem Sie solche 
+Aufzeichnungen führen müssen, darf VMware oder ein von VMware 
+beauftragter externer Prüfer nach einer angemessenen Ankündigung an Sie 
+solche Aufzeichnungen prüfen, um zu verifizieren, dass Sie (a) die 
+Software nur gemäß diesem EULA genutzt haben, (b) alle entsprechenden 
+Gebühren entrichtet haben und (c) ansonsten die Bestimmungen dieses EULA 
+und aller Aufträge eingehalten haben. VMware darf nicht mehr als eine (1) 
+Prüfung in einem Zeitraum von zwölf (12) Monaten durchführen. Die 
+Prüfungen werden während der normalen Geschäftszeiten durchgeführt und 
+VMware wird auf angemessene Weise versuchen, Störungen der normalen 
+Geschäftstätigkeit zu minimieren.  Im Rahmen einer solchen Prüfung wird 
+weder VMware noch ein möglicherweise von VMware beauftragter externer 
+Prüfer ohne Ihre ausdrückliche schriftliche Genehmigung physisch auf Ihre 
+Computergeräte zugreifen.  Sie werden in angemessener Weise mit VMware 
+bzw. dem von VMware beauftragten externen Prüfer zusammenarbeiten und 
+unverzüglich alle durch die Prüfung entdeckten Fehlbeträge unmittelbar an 
+VMware entrichten. Sie werden VMware alle zumutbaren Kosten und Ausgaben, 
+die bei einer solchen Prüfung entstanden sind, unverzüglich erstatten, 
+wenn: (i) eine solche Prüfung einen Fehlbetrag von mehr als fünf Prozent 
+(5 %) der an VMware zu zahlenden Gebühren für den geprüften Zeitraum 
+ergibt, oder (ii) eine solche Prüfung ergibt, dass Sie es versäumt haben, 
+genaue Aufzeichnungen über Ihre Nutzung der Software anzufertigen. 
+
+6.	SUPPORT- UND ABONNEMENTDIENSTE. Sofern nicht ausdrücklich im 
+Produkthandbuch angegeben, bietet VMware im Rahmen dieses EULA keine 
+Support- und Abonnementdienste an.  Sie haben keinen Anspruch auf 
+Updates, Upgrades, Erweiterungen oder Verbesserungen der von VMware 
+entwickelten Software, sofern Sie nicht separat Support- oder 
+Abonnementdienste von VMware erwerben.  Diese Support- oder 
+Abonnementdienste unterliegen den Service-Bestimmungen.
+
+7. GEWÄHRLEISTUNG.
+
+7.1 Software-Gewährleistung. VMware gewährleistet, dass für einen 
+Zeitraum von neunzig (90) Tagen nach Erhalt der Lieferung 
+("Gewährleistungszeitraum") die Software im Wesentlichen der zugehörigen 
+Dokumentation entspricht, sofern die Software (a) ordnungsgemäß 
+installiert und stets gemäß der geltenden Dokumentation genutzt wurde, 
+und (b) nicht durch andere Personen als VMware oder seine Beauftragten 
+geändert bzw. ergänzt wurde. VMware wird auf eigene Kosten und als seine 
+einzige Verpflichtung und zu Ihrer ausschließlichen Abhilfe bei einer 
+Verletzung der vorgenannten Gewährleistung die entsprechende Software 
+entweder ersetzen oder alle reproduzierbaren Fehler korrigieren, die Sie 
+VMware während des Gewährleistungszeitraums schriftlich gemeldet haben.  
+Falls VMware feststellt, dass es nicht in der Lage ist, den Fehler zu 
+korrigieren oder die Software zu ersetzen, wird VMware Ihnen alle von 
+Ihnen tatsächlich entrichteten Lizenzgebühren erstatten, was zur Folge 
+hat, dass die Lizenz für die entsprechende Software und Ihr Recht, diese 
+Software zu nutzen, erlöschen.
+
+7.2 Gewährleistungsausschluss. DIE AUSDRÜCKLICHE ERKLÄRUNG IN ABSCHNITT 
+7.1 ZUR GEWÄHRLEISTUNG TRITT, SOWEIT NACH DEM JEWEILS ANWENDBAREN RECHT 
+MÖGLICH, AN DIE STELLE ALLER ANDERER GEWÄHRLEISTUNSREGELUNGEN. VMWARE UND 
+IHRE LIZENZGEBER SCHLIEßEN IHRE HAFTUNG, SEI SIE AUSDRÜCKLICH, KONKLUDENT 
+ODER GESETZLICH, INSBESONDERE JEDWEDE KONKLUDENTE HAFTUNG FÜR DIE 
+VERÄUßERBARKEIT UND FÄHIGKEIT ZUM GEBRAUCH FÜR EINEN BESTIMMTEN ZWECK, 
+DEN UMFANG DER EINGERÄUMTEN RECHTE, ZUR NICHTVERLETZUNG VON SCHUTZRECHTEN 
+DRITTER SOWIE JEDEWEDE HAFTUNG AUFGRUND DES WEITEREN HANDELS DURCH SIE 
+ODER DES NICHTEINTRITTS EINES ERFOLGS, HINSICHTLICH DER SOFTWARE, DER 
+DOKUMENTATION ODER JEGLICHER IHNEN GEMÄß DIESEM EULA ZUR VERFÜGUNG 
+GESTELLTER MATERIALIEN AUS. VMWARE UND SEINE LIZENZGEBER GEWÄHRLEISTEN 
+NICHT, DASS DIE SOFTWARE OHNE UNTERBRECHUNG ARBEITET, DASS SIE KEINE 
+FEHLER HAT, ODER DASS DIE SOFTWARE IHRE GESCHÄFTLICHEN ANFORDERUNGEN 
+ERFÜLLT (ODER AUSGELEGT IST, UM DIESE ANFORDERUNGEN ZU ERFÜLLEN).
+
+8. FREISTELLUNG FÜR VERLETZUNGEN VON SCHUTZRECHTEN DRITTER
+
+8.1 Verteidigung und Entschädigung.  Vorbehaltlich des übrigen Teils 
+dieses Abschnitts 8 wird VMware Sie gegen Ansprüche Dritter, dass die 
+Software gegen Patent-, Marken- oder Urheberrechte von Dritten verstößt 
+oder Geschäftsgeheimnisse Dritter verletzt (jedoch nur in dem Ausmaß, 
+dass eine solche widerrechtliche Verwendung nicht eine Folge Ihrer 
+Handlungen ist), verteidigen, die nach den folgenden Rechtsordnungen 
+geschützt sind: (a) USA und Kanada, (b) Europäischer Wirtschaftsraum, (c) 
+Australien, (d) Neuseeland, (e) Japan oder (f) Volksrepublik China, 
+soweit diese Länder Teil des Lizenzgebiets sind 
+("Schutzrechtsverletzung") und Sie für die entstehenden Kosten, die einem 
+Dritten durch ein zuständiges Gericht rechtskräftig zugesprochen oder in 
+einem Vergleich festgelegt wurden, entschädigen, sofern Sie:  (i) VMware 
+umgehend über eine solche Schutzrechtsverletzung informieren, (ii) 
+zulassen, dass VMware die alleinige Verteidigung übernimmt und einen 
+möglichen Vergleich aushandelt, und (iii) angemessen auf ein 
+Beistandsersuchen von VMware reagieren.  Sie dürfen ohne die vorherige 
+schriftliche Zustimmung von VMware keinen Anspruch aufgrund einer 
+Schutzrechtsverletzung anerkennen und diesbezüglich keinen Vergleich 
+schließen.
+
+8.2 Abhilfe.  Sollte die Software Gegenstand einer Schutzrechtsverletzung 
+werden oder sollte es nach Meinung von VMware wahrscheinlich sein, dass 
+sie Gegenstand einer Schutzrechtsverletzung werden könnte, wird VMware 
+nach seiner Wahl und auf seine Kosten entweder:  (a) sich die 
+erforderlichen Rechte für die weitere Verwendung der betroffenen Software 
+durch Sie in Übereinstimmung mit diesem EULA beschaffen, (b) die 
+betroffene Software ersetzen oder ändern, sodass keine 
+Schutzrechtsverletzung mehr vorliegt, oder (c) die Lizenz der betroffenen 
+Software kündigen, die entsprechenden Support-Services beenden und, 
+nachdem bestätigt wurde, dass Sie die betroffene Software gelöscht haben, 
+Folgendes zurückerstatten: (i) die Gebühren für die Lizenz der 
+betroffenen Software, die Sie bezahlt haben, abzüglich der linearen 
+Abschreibung über drei (3) Jahre Nutzungsdauer ab dem Datum, an dem diese 
+Software ausgeliefert wurde, und (ii) alle im Voraus entrichteten 
+Gebühren für Support-Services, die nach dem Datum, an dem dieser Service 
+gestoppt wurde, erfolgen sollten. Nichts in diesem Abschnitt 8.2 schränkt 
+die Verpflichtung von VMware ein, Sie gemäß Abschnitt 8.1 zu verteidigen 
+und freizustellen, sofern Sie die angeblich das Schutzrecht verletzende 
+Software ersetzen, wenn VMware Ihnen eine alternative Software zur 
+Verfügung stellt, und/oder Sie nach dem Erhalt der Benachrichtigung von 
+VMware, in der die betroffene Lizenz gekündigt wird, die angeblich das 
+Schutzrecht verletzende Software nicht mehr nutzen.
+
+8.3 Ausschlüsse.  Ungeachtet dieser Ausführungen übernimmt VMware unter 
+diesem Abschnitt 8 keinerlei Verpflichtungen bezüglich jedweder Ansprüche 
+im Hinblick auf:  (a) eine Kombination der Software mit Nicht-VMware-
+Produkten (außer bei Nicht-VMware-Produkten, die im Auftrag aufgelistet 
+sind und in unveränderter Form genutzt werden), (b) die Nutzung für einen 
+Zweck oder in einer Weise, für die die Software nicht entwickelt wurde, 
+(c) die Nutzung einer älteren Version der Software, wenn durch die 
+Nutzung einer neueren von VMware erstellten Version der Software die 
+Verletzung hätte vermieden werden können, (d) jegliche Änderung an der 
+Software, die ohne die ausdrückliche schriftliche Zustimmung von VMware 
+vorgenommen wurde, (e) jeglichen Anspruch hinsichtlich der Open Source-
+Software oder der Freeware-Technologie oder jedweder Derivate oder 
+anderer Anpassungen, die nicht von VMware in die Software eingebettet 
+wurden, die auf der kommerziellen Preisliste von VMware aufgeführt ist, 
+(f) jeglichen Anspruch hinsichtlich Open Source-Software für Linux und 
+Android, auch wenn sie in der Software eingebettet wurde oder mit ihr 
+weitergegeben wurde, oder (g) jede Software, die kostenlos, als Beta- 
+oder Testversion zur Verfügung gestellt wird.  DIESER ABSCHNITT 8 GIBT 
+IHREN AUSSCHLIEßLICHEN ANSPRUCH UND DIE ALLEINIGE HAFTUNG VON VMWARE BEI 
+KLAGEN ODER JEGLICHEN SONSTIGEN ANSPRÜCHEN AUFGRUND DER VERLETZUNG 
+GEISTIGEN EIGENTUMS WIDER. 
+
+9. HAFTUNGSBESCHRÄNKUNG. 
+
+9.1 Haftungsbeschränkung. SOWEIT GESETZLICH ZULÄSSIG, HAFTEN VMWARE UND 
+SEINE LIZENZGEBER KEINESFALLS FÜR ENTGANGENEN GEWINN ODER ENTGANGENE 
+GESCHÄFTSMÖGLICHKEITEN, NUTZUNGSAUSFALL, VERLUST VON EINNAHMEN ODER 
+GOODWILL, BETRIEBSAUSFÄLLE, DATENVERLUST ODER JEDWEDE ANDERE MITTELBARE, 
+AUßERGEWÖHNLICHE, ZUFÄLLIGE SCHÄDEN ODER FOLGESCHÄDEN, UNABHÄNGIG VON DER 
+RECHTSGRUNDLAGE, SEI ES VERTRAG, DELIKT, FAHRLÄSSIGKEIT, PRODUKTHAFTUNG 
+ODER EINE SONSTIGE GRUNDLAGE. DA EINIGE RECHTSORDNUNGEN DEN AUSSCHLUSS 
+ODER DIE BESCHRÄNKUNG DER HAFTUNG FÜR FOLGESCHÄDEN ODER ZUFÄLLIGE SCHÄDEN 
+NICHT ERLAUBEN, GILT DIE VORANGEGANGENE EINSCHRÄNKUNG MÖGLICHERWEISE 
+NICHT FÜR SIE: DIE HAFTUNG VON VMWARE UND SEINEN LIZENZGEBERN IM RAHMEN 
+DIESER LIZENZVEREINBARUNG WIRD IN KEINEM FALL, OB VERTRAGSBEDINGT ODER 
+AUFGRUND UNERLAUBTER HANDLUNGEN ODER GEFÄHRDUNGSHAFTUNGEN ODER AUS 
+SONSTIGEN GRÜNDEN, DIE LIZENZGEBÜHREN ÜBERSCHREITEN, DIE SIE GGF. FÜR DIE 
+SOFTWARE BEZAHLT HABEN. DIE VORGENANNTEN BESCHRÄNKUNGEN FINDEN UNGEACHTET 
+DER TATSACHE ANWENDUNG, OB VMWARE UND SEINE LIZENZGEBER VOM BESTEHEN DER 
+MÖGLICHKEIT DES EINTRITTS SOLCHER SCHÄDEN IN KENNTNIS GESETZT WURDEN, UND 
+OB EINE ETWAIGE ABHILFE IHREN WESENTLICHEN ZWECK VERFEHLT. 
+
+9.2	Weitere Einschränkungen. Die Lizenzgeber von VMware übernehmen im 
+Rahmen dieser Lizenzvereinbarung keine Haftung jeglicher Art und die 
+Haftung von VMware bezüglich Software von Drittanbietern, die in die 
+Software eingebettet ist, unterliegt Abschnitt 9.1.  Sie dürfen im Rahmen 
+dieses EULA keine Ansprüche geltend machen, deren Entstehen mehr als 
+achtzehn (18) Monate zurückliegt.
+
+10. KÜNDIGUNG.
+
+10.1	Lizenzlaufzeit. Dieses EULA erlischt am Ende der Lizenzlaufzeit in 
+seiner Gesamtheit, es sei denn, es wurde gemäß diesem Abschnitt 10 
+bereits früher beendet.
+
+10.2	Kündigung wegen Vertragsverletzung. VMware kann durch schriftliche 
+Mitteilung an Sie dieses EULA vollständig und mit sofortiger Wirkung 
+kündigen, wenn: (a) Sie gegen eine Bestimmung in Abschnitt 3 verstoßen 
+und die Verletzung nicht innerhalb von zehn (10) Tagen nach Erhalt einer 
+entsprechenden schriftlichen Mahnung von VMware beheben, (b) Sie die 
+Gebühren eines entsprechenden Auftrags nicht innerhalb von zehn (10) 
+Tagen nach Erhalt einer schriftlichen Mitteilung von VMware, dass Sie mit 
+der Zahlung ganz oder teilweise in Verzug sind,, nicht vollständig 
+entrichten, (c) Sie gegen eine andere Bestimmung dieses EULA verstoßen 
+und die Verletzung nicht innerhalb von dreißig (30) Tagen nach Erhalt 
+einer entsprechenden schriftlichen Mitteilung von VMware beheben, oder 
+(d) Sie begehen eine erhebliche Verletzung, die nicht behoben werden 
+kann.
+
+10.3	Kündigung wegen Insolvenz.  VMware kann durch schriftliche 
+Mitteilung an Sie dieses EULA vollständig und mit sofortiger Wirkung 
+kündigen, wenn: (a) Sie Ihren Geschäftsbetrieb einstellen oder 
+unterbrechen, (b) Sie zahlungsunfähig werden, schriftlich mitteilen, dass 
+Sie nicht in der Lage sind, Ihre Schulden bei Fälligkeit zu bezahlen, 
+eine Abtretung zugunsten Ihrer Gläubiger vornehmen, oder Sie der 
+Kontrolle durch einen Treuhänder, einen Konkursverwalter oder eine 
+ähnliche Stelle unterstellt werden, oder (c) ein Konkurs- oder 
+Insolvenzverfahren gegen Sie eröffnet wird.
+
+10.4	Folge der Beendigung. Wenn VMware dieses EULA gemäß diesem 
+Abschnitt 10 beendet: (a) erlöschen sofort alle lizenzierten Rechte an 
+der Software, die Ihnen im Rahmen dieses EULA gewährt wurden, und 
+(b),müssen Sie unverzüglich jedwede Nutzung jeglicher Software einstellen 
+(und müssen alle Kopien der Software sowie alle Lizenzschlüssel 
+vernichten) und alle damit verbundenen vertraulichen VMware-
+Informationen, die sich noch in Ihrem Besitz befinden, zurücksenden oder 
+auf Aufforderung von VMware vernichten und VMware schriftlich bestätigen, 
+dass Sie diese Anforderungen vollständig erfüllt haben.  Abschnitte 1 
+(Definitionen), 2.6 (Open Source-Software), 3 (Einschränkungen, Geistiges 
+Eigentum), 5.1 (Aufzeichnungen), 5.2 (Audit-Rechte), 7.2 
+(Gewährleistungsausschluss), 9 (Haftungsbeschränkung), 10 (Kündigung), 11 
+(Vertrauliche Informationen) und 12 (Allgemein) behalten auch nach einem 
+Erlöschen dieser Lizenz ihre Gültigkeit.
+
+11.	VERTRAULICHE INFORMATIONEN.  
+
+11.1 Definition.  "Vertrauliche Informationen" bezeichnet Informationen 
+oder Materialien, die eine Vertragspartei ("Informationsgeber") der 
+anderen Vertragspartei ("Informationsempfänger") zur Verfügung stellt, 
+die in materieller Form vorhanden und als "vertraulich" o. Ä. 
+gekennzeichnet sind, sowie Informationen, von denen eine vernünftig 
+handelnde Person wusste oder hätte wissen müssen, dass sie vertraulich 
+sind.  Die folgenden Informationen gelten als vertraulich, unabhängig 
+davon, ob sie als solche gekennzeichnet oder identifiziert werden:  (a) 
+Lizenzschlüssel, (b) Informationen bezüglich der Preisgestaltung, der 
+Produkt-Roadmaps oder strategischer Marketing-Pläne von VMware und (c) 
+nicht-öffentliche Materialien bezüglich der Software.
+
+11.2 Schutz. Der Informationsempfänger darf die vertraulichen 
+Informationen des Informationsgebers verwenden, (a) um seine Rechte und 
+Pflichten aus diesem EULA auszuüben, oder (b) in Verbindung mit der 
+laufenden Geschäftsbeziehung der Vertragspartner.  Der 
+Informationsempfänger darf keine vertraulichen Informationen des 
+Informationsgebers zu irgendeinem Zweck gebrauchen, der nicht 
+ausdrücklich durch dieses EULA gestattet ist, und wird die vertraulichen 
+Informationen des Informationsgebers nur an die Mitarbeiter oder 
+Auftragnehmer des Informationsempfängers weitergeben, die solche 
+vertraulichen Informationen zu diesem EULA entspringenden Zwecken 
+benötigen und die einer Geheimhaltungspflicht unterliegen, die nicht 
+weniger restriktiv als die nach diesem Abschnitt 11 vorliegende Pflicht 
+des Informationsempfängers ist.  Der Informationsempfänger muss 
+vertrauliche Informationen vor unbefugter Nutzung, unbefugtem Zugriff 
+oder unbefugter Offenlegung in der gleichen Weise schützen wie seine 
+eigenen vertraulichen oder schutzrechtsfähigen Informationen ähnlicher 
+Art schützt, jedoch mit nicht weniger als der im Verkehr erforderlichen 
+Sorgfalt.
+
+11.3 Ausnahmen.  Die Verpflichtungen des Informationsempfängers unter 
+Abschnitt 1011.2 hinsichtlich vertraulicher Informationen erlöschen, 
+falls der Informationsempfänger schriftlich nachweisen kann, dass diese 
+Informationen:  (a) dem Informationsempfänger zum Zeitpunkt der 
+Offenlegung durch den Informationsgeber bereits bekannt waren; (b) dem 
+Informationsempfänger durch einen Dritten zur Verfügung gestellt wurden, 
+der zu einer solchen Offenlegung ohne seinerseits eigene Vorgaben 
+hinsichtlich der Vertraulichkeit berechtigt war; (c) der Öffentlichkeit 
+allgemein zugänglich sind bzw. ohne Fehler des Informationsempfängers 
+zugänglich gemacht wurden, oder (d) ohne Zugang zu bzw. Verwendung der 
+Informationen des Informationsgebers vom Informationsempfänger unabhängig 
+entwickelt wurden.  Zudem darf der Informationsempfänger die 
+vertraulichen Informationen offenlegen, soweit eine solche Offenlegung 
+gesetzlich erforderlich ist oder durch ein Gericht bzw. einen 
+vergleichbaren juristischen oder administrativen Spruchkörper angeordnet 
+wurde, vorausgesetzt, der Informationsempfänger setzt den 
+Informationsgeber sofort über eine solche erforderliche Offenlegung 
+schriftlich in Kenntnis und kooperiert auf Anfrage und Kosten des 
+Informationsgebers mit diesem bei jeglichen juristischen Schritten, um 
+die verlangte Offenlegung vertraulicher Informationen anzufechten bzw. 
+einzuschränken.
+
+11.4	Datenschutz. Sie stimmen zu, dass VMware technische und andere 
+relevante Informationen zu Ihrer Verwendung der Software verarbeiten 
+darf, einschließlich der IP-Adresse, der Hardwareidentifikation, des 
+Betriebssystems, der Anwendungssoftware, der peripheren Hardware und 
+nicht individualisierbarer Software-Nutzungsstatistiken, um die 
+Bereitstellung von Updates, den Support, die Rechnungsstellung und die 
+Online-Dienste für Sie zu ermöglichen, und ist berechtigt, diese 
+Informationen von Zeit zu Zeit an andere Firmen der weltweiten VMware-
+Unternehmensgruppe weiterzugeben. Soweit diese Informationen 
+personenbezogene Daten enthalten, hat VMware die Kontrolle über diese 
+personenbezogenen Daten. Soweit sie die Kontrolle hat, muss jede Partei 
+stets die durch die sich aus den geltenden Gesetzen des jeweiligen 
+Gebiets ergebenden Verpflichtungen zum Schutz bei der Verarbeitung 
+personenbezogener Daten einhalten. Die erfassten Daten unterliegen den 
+Datenschutzbestimmungen von VMware, die unter 
+http://www.vmware.com/help/privacy.html eingesehen werden können.
+
+12.	ALLGEMEINES.
+
+12.1 Abtretung.  Dieses EULA und alle Aufträge sowie alle Ihre Rechte 
+bzw. Verpflichtungen, die sich daraus ergeben, dürfen ohne die vorherige 
+schriftliche Zustimmung von VMware von Ihnen weder ganz noch teilweise, 
+sei es freiwillig, aufgrund Vertrags, Gesetzes oder sonst einer Grundlage 
+abgetreten, vergeben oder übertragen werden. Versuchte Abtretungen oder 
+Übertragungen unter Verstoß gegen die vorgenannten Bestimmungen sind 
+nichtig.  Vorbehaltlich der zuvor genannten Bestimmungen ist diese 
+Lizenzvereinbarung bindend und wird zugunsten der Parteien und ihrer 
+jeweiligen Nachfolger und Zessionare wirksam.  
+
+12.2	Mitteilungen.  Alle von VMware unter diesem EULA gegenüber ihnen 
+abgegebene Mitteilungen erfolgen per Post, E-Mail oder Fax. 
+
+12.3	Verzichtserklärung.  Der Verzicht auf entsprechende Maßnahmen im 
+Falle einer Vertragsverletzung dieses EULA begründet keinen Verzicht auf 
+die Durchsetzung einer anderen Bestimmung oder die Hinnahme einer 
+nachfolgenden Vertragsverletzung.  
+
+12.4	Salvatorische Klausel.  Sollte eine Bestimmung dieser EULA für 
+rechtswidrig, ungültig oder nicht durchsetzbar erklärt werden, gilt diese 
+Bestimmung weiterhin so weit als zulässig, um dem Willen der Parteien zur 
+Wirksamkeit zu verhelfen. Die übrigen Bestimmungen dieser EULA bleiben in 
+vollem Umfang gültig.
+
+12.5 Einhaltung von Gesetzen, Exportkontrolle, staatliche Bestimmungen. 
+Jede Partei ist verpflichtet, alle geltenden Gesetze hinsichtlich der in 
+dieser EULA behandelten Handlungen einzuhalten. Sie erkennen an, dass die 
+Software aus den USA stammt, den US-amerikanischen 
+Exportverwaltungsbestimmungen (Export Administration Regulations) 
+unterliegt, gemäß den Vorschriften der U. S. Export Administration 
+ausgeliefert wird, möglicherweise Exportkontrollvorschriften des 
+jeweiligen Gebiets unterliegt und dass Abweichungen von den jeweils 
+anwendbaren Exportkontrollgesetzen verboten sind. Sie versichern, dass 
+(1) Sie (a) kein Bürger, Staatsangehöriger bzw. Einwohner eines Landes 
+sind, oder von einer Regierung oder einem Land gesteuert werden, mit dem 
+die USA Handelsbeziehungen untersagt haben, und nicht im Namen eines 
+Bürgers, Staatsangehörigen oder Einwohners eines dieser Länder handeln, 
+oder (b) keine Person bzw. juristische Person sind, die in der Liste der 
+Specially Designated Nationals and Blocked Persons des U.S. Treasury 
+Department oder in der U.S. Commerce Department Denied Persons List oder 
+Entity List aufgeführt ist, und (2) Sie die Verwendung der Software zu 
+gesetzlich verbotenen Zwecken nicht zulassen, einschließlich der 
+verbotenen Entwicklung, des Entwurfs, der Herstellung und der Produktion 
+von Raketen und nuklearen, chemischen oder biologischen Waffen. Die 
+Software und Begleitdokumentationen werden, soweit anwendbar, gemäß DFAR 
+Abschnitt 227.7202 und FAR Abschnitt 12.212(b), als "kommerzielle 
+Computersoftware" bzw. "Dokumentation für kommerzielle Computersoftware" 
+erachtet.  Jede Nutzung, Abänderung, Reproduktion, Freigabe, Leistung, 
+Anzeige oder Offenlegung der Software sowie der Dokumentation durch die 
+Regierungsbehörden der USA unterliegt ausschließlich den Bestimmungen und 
+Bedingungen dieses Lizenzvertrags.
+
+12.6 Auslegung. Die Abschnittsüberschriften dieses EULA dienen der 
+Übersichtlichkeit und haben keinen Einfluss auf die Interpretation dieses 
+EULA. Das in dieses EULA verwendete Wort "einschließlich" bedeutet 
+"einschließlich, aber nicht beschränkt auf".
+
+12.7 Anwendbares Recht. Dieses EULA unterliegt deutschem Recht unter 
+Ausschluss der Vorschriften des Internationalen Privatrechts und unter 
+Ausschluss des UN-Kaufrechts (Übereinkommen der Vereinten Nationen über 
+Verträge über den internationalen Warenverkauf).
+
+12.8 Sprache. Diese Version dieses EULA in Ihrer Landessprache wird Ihnen 
+lediglich als Entgegenkommen bereitgestellt, aber Ihre Nutzung der 
+Software unterliegt der englischen Version dieses EULA, das auf der 
+Website www.vmware.com/download/eula eingesehen werden kann:.
+
+12.9 Rechte von Drittanbietern.  Soweit nicht ausdrücklich in diesem EULA 
+festgelegt, können aus diesem EULA keinerlei Rechte für Personen 
+hergeleitet werden, die nicht Partei dieses EULA sind, und keine Person, 
+die nicht Partei dieses EULA ist, kann die Durchsetzung einer ihrer 
+Bestimmungen einfordern oder sich auf eine darin enthaltene Ausnahme bzw. 
+Beschränkung berufen. 
+
+12.10	Produkthandbuch. Zusätzlich zu den Inhalten in den obigen 
+Abschnitten unterliegt Ihre Nutzung der Software den Bestimmungen und 
+Bedingungen des Produkthandbuchs, die Teil des EULA sind.  
+
+12.11	Rangfolge.  Für den Fall eines Konflikts oder Widersprüchen 
+zwischen dem Produkthandbuch, diesem EULA und dem Auftrag gilt die 
+folgende Rangfolge: (a) das Produkthandbuch, (b) dieses EULA und (c) der 
+Auftrag. Hinsichtlich eines Widerspruches zwischen diesem EULA und dem 
+Auftrag ersetzen die Regelungen in diesem EULA die in Konflikt stehenden 
+bzw. die zusätzlichen Bestimmungen und Bedingungen eines Auftrags, einer 
+Bestätigung oder eines anderen von Ihnen ausgestellten Dokuments, es sei 
+denn, die Parteien treffen eine schriftliche Vereinbarung, die festlegt: 
+(i) dass dieser Auftrag diesen EULA ändern soll, oder (ii) dass im Falle 
+eines Widerspruches die Bestimmungen und Bedingungen dieses Auftrags die 
+Bestimmungen und Bedingungen des EULA ersetzen. 
+
+12.12	Abschließende Vereinbarung. Dieses EULA, einschließlich der 
+angenommenen Aufträge sowie der vorgenommenen Abänderungen, und das 
+Produkthandbuch enthalten die vollständige Vereinbarung der Parteien 
+bezüglich des Gegenstands dieses EULA und ersetzen alle vorherigen oder 
+gleichzeitigen Wort- und Schriftwechsel, Beschreibungen, Angebote, 
+Zusagen, Abmachungen und Vereinbarungen, seien sie schriftlich oder 
+mündlich, zwischen den Parteien hinsichtlich dieses Gegenstands.  Diese 
+Lizenzvereinbarung kann nur schriftlich durch befugte Vertreter beider 
+Parteien abgeändert werden.
+
+12.13	Kontaktinformationen.  Bitte wenden Sie sich bei rechtlichen Fragen 
+oder anderen Anliegen an VMware, Inc., 3401 Hillview Avenue, Palo Alto, 
+California 94304, USA.  Wenn Sie Fragen zu dieser EULA haben, senden Sie 
+bitte eine E-Mail an info@vmware.com.

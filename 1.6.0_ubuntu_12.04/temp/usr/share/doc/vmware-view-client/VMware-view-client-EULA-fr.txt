@@ -1,0 +1,662 @@
+﻿CONTRAT DE LICENCE D'UTILISATEUR FINAL VMWARE
+
+VEUILLEZ NOTER QUE LES CONDITIONS DU CONTRAT D'UTILISATEUR FINAL REGIRONT 
+VOTRE UTILISATION DU LOGICIEL, ET 
+CE, INDÉPENDAMMENT DE TOUTES AUTRES CONDITIONS POUVANT APPARAÎTRE LORS DE 
+L'INSTALLATION DU LOGICIEL. 
+
+IMPORTANT- À LIRE ATTENTIVEMENT : EN TÉLÉCHARGEANT, EN INSTALLANT OU EN 
+UTILISANT LE LOGICIEL, VOUS (PERSONNE 
+PHYSIQUE OU MORALE) ACCEPTEZ LES TERMES DU PRÉSENT CONTRAT DE LICENCE 
+D'UTILISATEUR FINAL (" CLUF "). SI VOUS 
+N'ACCEPTEZ PAS LES TERMES DU CLUF, VOUS NE DEVEZ PAS TÉLÉCHARGER, 
+INSTALLER OU UTILISER LE LOGICIEL ET VOUS 
+DEVEZ SUPPRIMER OU RETOURNER LE LOGICIEL INUTILISÉ AU VENDEUR AUPRÈS 
+DUQUEL VOUS L'AVEZ ACQUIS DANS 
+UN DÉLAI DE TRENTE (30) JOURS ET DEMANDER, LE CAS ÉCHÉANT, LE 
+REMBOURSEMENT DES REDEVANCES DE LICENCE DÉJÀ 
+ACQUITTÉES.
+
+LICENCE D'ÉVALUATION. Si Vous utilisez la licence du Logiciel à des fins 
+d'évaluation, Vous n'êtes pas autorisé à l'utiliser dans un 
+environnement de production et Vous ne pouvez utiliser le Logiciel que 
+pendant la période limitée par la Clé de licence. Dans toute la mesure 
+permise par la loi, et nonobstant toute autre stipulation du CLUF, la 
+Licence d'évaluation du Logiciel est fournie " EN L'ÉTAT " sans 
+indemnisation, assistance ni garantie d'aucune sorte, expresse ou 
+implicite.
+
+1.	DÉFINITIONS.
+ 
+1.1	Le terme " Filiale " désigne, pour chacune des parties, une entité 
+qui est directement ou indirectement contrôlée par ou qui est sous le 
+contrôle commun de la partie concernée - " contrôle " désignant un droit 
+de  propriété, un droit de vote ou une participation représentant 
+cinquante pour cent (50 %) ou plus du capital en circulation - de 
+l'entité concernée (mais uniquement dans la mesure où cette personne 
+ou entité répond à ces exigences).
+
+1.2	Le terme " Documentation " désigne la documentation qui Vous est 
+généralement fournie par VMware avec le Logiciel, telle que mise 
+à jour par VMware ponctuellement, et qui peut inclure des manuels 
+d'utilisateur final, des instructions d'utilisation, des guides 
+d'installation, des notes de version et des fichiers d'aide en ligne 
+relatifs à l'utilisation du Logiciel.
+
+1.3	Le terme " Systèmes d'exploitation clients " désigne des instances 
+des systèmes d'exploitation tiers concédés sous licence par 
+Vous, installés sur une Machine virtuelle et exécutés en utilisant le 
+Logiciel.
+
+1.4	Le terme " Droits de propriété intellectuelle " désigne tous les 
+droits de propriété intellectuelle dans le monde entier, y compris, mais 
+sans limitation, les droits d'auteur, marques commerciales, marques de 
+service, secrets de fabrication,savoir-faire, inventions, brevets, 
+demandes de brevet, droits moraux et tous les autres droits de propriété, 
+qu'ils soient enregistrés ou non. 
+
+1.5 	Le terme " Licence " désigne une licence concédée selon les termes 
+de la Section 2.1. 
+
+1.6	Le terme " Clé de licence " désigne un numéro de série qui Vous 
+permet d'activer et d'utiliser le Logiciel.
+
+1.7       Le terme " Durée de la licence " désigne la durée d'une Licence 
+telle que spécifiée dans la Commande.
+
+1.8	Le terme "  Type de licence " désigne le type de Licence applicable 
+au Logiciel, tel que décrit plus en détails dans la Commande.
+
+1.9	Le terme " Logiciel libre " ou " OSS " désigne des composants 
+logiciels concédés sous une licence approuvée par l'Open Source 
+Initiative (" OSI ") ou une autre licence de code source ouvert ou de 
+logiciel libre et qui sont intégrés dans le Logiciel fourni. 
+
+1.10	Le terme " Commande " désigne un bon de commande, un contrat de 
+licence entreprise ou un autre document de passation de 
+commande émis par vous à VMware ou un revendeur agréé VMware faisant 
+référence à et incorporant le présent CLUF et qui est 
+accepté par VMware tel que stipulé dans la Section 4.
+
+1.11	Le terme " Guide des produits " désigne la version actuelle du 
+Guide des produits VMware au moment de Votre commande, dont des 
+copies sont disponibles à l'adresse www.vmware.com/fr/download/eula.
+ 
+1.12	Le terme " Conditions des services " désigne les Conditions 
+générales du Contrat d'assistance et de souscription de VMware en 
+vigueur, dont des copies sont disponibles à l'adresse 
+www.vmware.com/files/pdf/support/support_terms_conditions.pdf.
+
+1.13	Le terme " Logiciel " désigne VMware Tools et les programmes 
+informatiques VMware énumérés dans la liste des prix commerciaux 
+de VMware pour lesquels vous faites l'acquisition d'une licence dans le 
+cadre d'une Commande, avec tous les codes logiciels y afférant et 
+qui Vous sont fournis conformément à un contrat de service d'assistance 
+et de souscription et qui ne sont pas soumis à un contrat de 
+licence distinct.
+
+1.14	Le terme " Territoire " désigne le ou les pays dans lequel ou 
+lesquels Vous avez été facturé ; à condition, cependant, que si vous avez 
+été facturé dans un des États membres de la Zone économique européenne, 
+Vous puissiez déployer le Logiciel correspondant dans la 
+Zone économique européenne. 
+
+1.15	Le terme " Prestataire tiers " désigne un tiers Vous fournissant 
+des services de technologie de l'information en vertu d'un contrat écrit 
+avec Vous.
+
+1.16	Le terme" Machine virtuelle " désigne un conteneur de logiciels 
+pouvant exécuter son propre système d'exploitation et des 
+applications, comme une machine physique. 
+
+1.17	" VMware " désigne VMware, Inc., une société du Delaware, si Vous 
+achetez des licences ou des services destinés à être utilisés aux 
+États-Unis et VMware International Limited, une société de droit 
+irlandais, pour tous les autres achats.
+1.18	" VMware Tools " désigne la suite d'utilitaires et de pilotes, 
+concédée sous licence par VMware sous le nom " VMware Tools ", qui 
+peuvent être installés dans un système d'exploitation client pour 
+augmenter les performances et les fonctionnalités d'un système 
+d'exploitation client lors de l'exécution d'une Machine virtuelle.
+	
+2.	CONCESSION DE LICENCE.
+
+2.1	Champ d'application de la Licence. Sous réserve des conditions 
+générales du CLUF, VMware Vous concède, pendant la Durée de la 
+licence, une Licence non exclusive et non transférable d'utilisation du 
+Logiciel, uniquement sous la forme de code exécutable, au sein du 
+Territoire, pour Vos opérations internes conformément à (a) la 
+Documentation ;(b) le Type de licence pour lequel Vous avez acquitté les 
+redevances de licence correspondantes ; (c) les autres limitations 
+applicables stipulées dans la Commande. La licence d'utilisation du 
+Logiciel est limitée aux quantités spécifiées dans chaque Commande 
+correspondante.
+
+2.2	Utilisation par des tiers. Dans le cadre de la licence qui Vous est 
+concédée dans la Section 2.1 ci-dessus, Vous pouvez autoriser Vos 
+Prestataires tiers à accéder à, utiliser et/ou exploiter le Logiciel en 
+Votre nom dans le seul but de Vous fournir des services, sous réserve 
+que Vous soyez le seul responsable du respect des conditions générales du 
+t CLUF par vos Prestataires tiers, et toute violation du 
+CLUF par un Prestataire tiers est considérée comme une manquement de 
+Votre part. 
+
+2.3	Copies autorisées. Vous pouvez réaliser une copie du Logiciel 
+uniquement à des fins d'archivage. La copie doit : (a) rester en Votre 
+possession ou sous Votre contrôle ; (b) inclure tous les titres, marques 
+commerciales et notifications de droits d'auteur et de droits 
+réservés présents dans l'original ; et (c) être soumise aux dispositions 
+du t CLUF. Sinon, Vous ne devez pas copier le Logiciel sans 
+autorisation écrite préalable de VMware.
+
+2.4	Benchmarking. Vous pouvez utiliser le Logiciel pour effectuer des 
+tests de performances en interne et ainsi que des études de 
+benchmarking. Vous pouvez uniquement publier ou distribuer les résultats 
+de ces études à des tiers en respectant les conditions 
+suivantes : (a) si elles concernent les produits VMware Workstation ou 
+Fusion, uniquement si vous envoyez une copie de Votre étude à 
+l'adresse benchmark@vmware.com avant la distribution; (b) concernant tout 
+autre Logiciel, uniquement si VMware a vérifié et approuvé 
+la méthodologie, les hypothèses et les autres paramètres de l'étude 
+(veuillez contacter VMware à l'adresse benchmark@vmware.com 
+pour demander cette vérification et cette approbation) avant la 
+publication et la distribution. 
+
+2.5	VMware Tools. Vous pouvez distribuer VMware Tools (comme élément ou 
+non de la Machine virtuelle que Vous créez avec le Logiciel) 
+à des tiers uniquement s'il est installé sur un Système d'exploitation 
+client afin d'améliorer ses performances et fonctionnalités lorsqu'il 
+est exécuté sur une Machine virtuelle, sous réserve que Vous soyez le 
+seul responsable du respect des conditions générales du CLUF 
+par ces tiers, et toute violation du CLUF par un tiers sera considérée 
+comme un manquement de Votre part.
+
+2.6	Logiciel libre. Nonobstant toute disposition contraire des 
+présentes, le Logiciel libre Vous est concédé selon les conditions 
+propres 
+applicables du Logiciel libre, qui sont disponibles dans le fichier 
+open_source_licenses.txt, la Documentation ou le cas échéant, les 
+fichiers sources correspondants pour le Logiciel disponibles à l'adresse 
+http://www.vmware.com/download/open_source.html. Les 
+conditions du contrat de licence du Logiciel libre correspondent à la 
+licence concédée dans la Section 2, et peuvent contenir des droits 
+supplémentaires dont Vous bénéficiez. Les conditions de la licence 
+d'utilisation du Logiciel libre peuvent prévaloir sur le t CLUF dans la 
+limite où le t CLUF Vous impose des restrictions plus importantes que les 
+conditions de la licence d'utilisation du Logiciel libre.
+
+3.	LIMITATIONS ; PROPRIÉTÉ.
+
+3.1	Limitations. Vous reconnaissez que le Logiciel et la structure, 
+l'organisation et le code source du Logiciel constituent d'importants 
+secrets de fabrication de VMware. Par conséquent, sauf disposition 
+contraire dans la Section 2 ou autorisation écrite de VMware, Vous 
+n'êtes pas autorisé à et Vous n'autoriserez aucun tiers à : (a) vendre, 
+louer, concéder sous licence, distribuer, concéder sous sous-
+licence ni transférer d'une autre manière dans son intégralité ou en 
+partie le Logiciel ou la Documentation à un tiers ; (b) décompiler, 
+désassembler, recompiler ou tenter de toute autre manière d'accéder au 
+code source du Logiciel, dans son intégralité ou en partie ; (c) 
+copier le Logiciel, excepté à des fins d'archivage, comme stipulé dans la 
+Section 2.3 ; (d) créer, développer, concéder sous licence, 
+installer, utiliser ou déployer un logiciel ou des services tiers dans le 
+but de contourner, activer, modifier ou fournir un accès, une 
+autorisation ou un droit qui viole les restrictions techniques du 
+Logiciel, tel que décrit dans le CLUF ; (e) traduire, modifier ou créer 
+des 
+travaux dérivés basés sur le Logiciel ; (f) autoriser toute utilisation 
+ou accès au Logiciel par un tiers ; (g) supprimer toute identification du 
+produit, notification de propriété, de droits d'auteur ou autre contenue 
+dans le Logiciel ; ou (h) exécuter le Logiciel au nom de ou pour le 
+compte d'un tiers, y compris l'utilisation d'un service auquel un tiers 
+accède, excepté pour les fins de la présente Section 3.1 (h). Vous 
+pouvez utiliser le Logiciel pour fournir des services hébergés à une 
+filiale. 
+
+3.2	Décompilation. Nonobstant ce qui précède, il est permis de 
+décompiler le Logiciel dans la mesure où les lois du Territoire Vous 
+donnent le droit exprès de le faire afin d'obtenir les informations 
+nécessaires pour rendre le Logiciel interopérable avec d'autres 
+logiciels ; à condition, cependant, que Vous demandiez au préalable ces 
+informations à VMware (à l'adresse info@vmware.com), 
+fournissiez toutes les informations demandées raisonnables pour permettre 
+à VMware d'évaluer Votre demande, et VMware peut, à sa 
+seule discrétion, soit Vous fournir ces informations d'interopérabilité, 
+imposer des conditions raisonnables, incluant des frais 
+raisonnables, en ce qui concerne cette utilisation du Logiciel, Vous 
+proposer des alternatives pour garantir que les droits de propriété du 
+Logiciel de VMware sont protégés et réduire toute conséquence défavorable 
+sur les droits de propriété de VMware.
+
+3.3	Propriété. Le Logiciel et la Documentation, toutes les copies et 
+parties en découlant, et toutes les améliorations, modifications et 
+travaux dérivés en découlant, ainsi que tous les Droits de propriété 
+intellectuelle, sont et doivent rester la propriété unique et exclusive 
+de VMware et de ses concédants;. Vos droits d'utiliser le Logiciel et la 
+Documentation doivent être limités à ceux qui sont octroyés 
+expressément dans le CLUF et toute Commande applicable. Aucun droit 
+concernant le Logiciel ou autre Droit de propriété intellectuelle 
+n'est implicite. Vous n'êtes pas autorisé à utiliser (et Vous ne devez 
+autoriser aucun tiers à utiliser) le Logiciel, la Documentation ni 
+aucune autre partie en découlant autrement que ce qui est expressément 
+autorisé dans le CLUF ou la Commande applicable. 
+
+3.4	Systèmes d'exploitation clients. Certains Logiciels permettent 
+d'exécuter des Systèmes d'exploitation clients et d'autres programmes 
+sur un système informatique. Vous reconnaissez que Vous êtes responsable 
+de l'obtention des licences et du respect de leurs 
+conditions pour exploiter ces logiciels tiers.
+
+4.	COMMANDE. Votre Commande est soumise aux conditions du CLUF.Tant 
+qu'elle n'a pas été acceptée VMware n'est liée par aucune 
+commande. Les Commandes de Logiciel sont considérées comme acceptées à la 
+remise par VMware du Logiciel inclus dans cette 
+Commande. Les Commandes envoyées à VMware n'ont pas à être signées pour 
+être valides et exécutoires.
+
+5.	AUDITS
+
+5.1	Registres. Pendant la Durée de toutes les Licences d'utilisation de 
+Logiciel acquises dans le cadre du CLUF (et pendant une période de 
+deux (2) ans à partir de la date d'expiration de la Durée de la licence 
+applicable), vous conserverez des registres précis de votre 
+utilisation du Logiciel pour fournir la preuve du respect des clauses du 
+t CLUF et de toutes les Commande. 
+
+5.2	Audits. Pendant la période pendant laquelle Vous êtes dans 
+l'obligation de conserver ces registres, VMware, ou son auditeur tiers 
+peut, 
+après Vous avoir notifié dans un délai raisonnable, contrôler ces 
+registres pour vérifier que Vous avez (a) utilisé le Logiciel uniquement 
+de la manière autorisée par les présentes; (b) acquitté toutes les 
+redevances de licence correspondantes ; et (c) par ailleurs respecté les 
+conditions du CLUF et de toutes les Commandes. VMware ne peut pas 
+effectuer plus d'un (1) audit sur une période de douze (12) mois. 
+Les opérations d'audit seront réalisées pendant les heures de travail 
+normales et VMware déploiera des efforts raisonnables sur le plan 
+commercial pour limiter la perturbation de Vos activités commerciales 
+normales. VMware, et tout auditeur tiers, ne pourront avoir accès 
+physiquement à vos périphériques informatiques en relation avec ce 
+contrôle, sans Votre consentement écrit préalable. Vous 
+coopérerez raisonnablement avec VMware et/ou son auditeur tiers, et Vous 
+réglerez dans les meilleurs délais directement à VMware 
+tout versement insuffisant révélé par ce contrôle. Vous rembourserez 
+rapidement VMware pour tous les frais et dépenses raisonnables 
+engagés par VMware pour ce contrôle si : (i) ce contrôle révèle un 
+versement insuffisant de Votre part de plus de cinq pour cent (5 %) 
+des frais que Vous devez verser à VMware pour la période contrôlée, ou 
+(ii) ce contrôle révèle que Vous n'avez pas conservé 
+matériellement des registres précis de Votre utilisation du Logiciel. 
+
+6.	SERVICES D'ASSISTANCE ET DE SOUSCRIPTION. Sauf stipulation 
+contraire dans le Guide des produits, VMware ne fournit pas de 
+services d'assistance ou de souscription pour le Logiciel dans le cadre 
+du t CLUF. Le CLUF ne Vous confère aucun droit d'obtenir toute 
+mise à jour, mise à niveau, extension ou amélioration du Logiciel 
+développée par VMware, sauf si Vous souscrivez séparément aux 
+services d'assistance ou de souscription. Ces services d'assistance ou de 
+souscription sont soumis aux Conditions des services.
+
+7.	GARANTIES.
+
+7.1	Garantie du logiciel. VMware Vous garantit que le Logiciel, pendant 
+une période de quatre-vingt dix (90) jours après la remise 
+(" Période de garantie "), sera pour l'essentiel conforme à la 
+Documentation correspondante, à condition que le Logiciel (a) ait été 
+correctement installé et constamment utilisé conformément à la 
+Documentation applicable ; et (b) n'ait pas été modifié ou ajouté par des 
+personnes autres que VMware ou son représentant agréé. VMware, à ses 
+frais en tant que sa seule obligation et  Votre recours exclusif 
+pour tout non-respect de la présente garantie, remplacera le Logiciel 
+applicable ou corrigera toute erreur reproduisible dans le Logiciel 
+signalée à VMware par Vous par écrit pendant la Période de garantie. Si 
+VMware détermine ne pas être en mesure de corriger l'erreur 
+ou de remplacer le Logiciel, VMware Vous remboursera tous les frais de 
+licence acquittés par Vous, et la Licence pour le Logiciel et 
+Votre droit d'utiliser ce Logiciel seront alors résiliés.
+
+7.2	Limitations des garanties. LA GARANTIE EXPRESSE STIPULÉE DANS LA 
+SECTION 7.1 CI-DESSUS REMPLACE, ET, DANS LES 
+LIMITES PRÉVUES PAR LA LOI EN VIGUEUR, VMWARE ET SES CONCÉDANTS DECLINENT 
+TOUTES AUTRES GARANTIES, 
+QU'ELLES SOIENT EXPRESSES, IMPLICITES OU STATUTAIRES,, Y COMPRIS TOUTES 
+LES GARANTIES IMPLICITES DE 
+QUALITÉ MARCHANDE ET D'ADAPTABILITÉ À DES FINS PARTICULIÈRES, TITRE, 
+ABSENCE DE CONTREFAÇON ET TOUTES 
+LES AUTRES GARANTIES DÉCOULANT D'UNE TRANSACTION OU D'UNE PERFORMANCE 
+CONCERNANT OU ASSOCIÉES AU 
+LOGICIEL, À LA DOCUMENTATION, OU À TOUT AUTRE MATÉRIAU QUI VOUS SERAIT 
+PRÉSENTÉ OU FOURNI DANS LE CADRE 
+DU CLUF. VMWARE ET SES CONCÉDANTS NE GARANTISSENT PAS QUE LE LOGICIEL 
+FONCTIONNERA SANS INTERRUPTION 
+NI QU'IL SERA EXEMPT DE DÉFAUTS NI QU'IL RÉPONDRA (OU QU'IL EST DESTINÉ À 
+RÉPONDRE) AUX BESOINS DE VOTRE 
+ENTREPRISE.
+
+8.	INDEMNISATION DE PROPRIÉTÉ INTELLECTUELLE. 
+
+8.1	Défense et indemnisation. Dans les conditions stipulées dans le 
+reste de la présenteSection 8, VMware s'engage à Vous défendre 
+contre toute revendication de tiers visant à démontrer que le Logiciel 
+violerait un brevet, une marque commerciale ou un droit d'auteur 
+de ce tiers, ou détourne un secret de fabrication (mais uniquement dans 
+la mesure où ce détournement n'est pas le résultat de Vos 
+actions) selon la loi de : (a) les États-Unis ou le Canada ; (b) la Zone 
+économique européenne ; (c) l'Australie ; (d) la Nouvelle-Zélande ; 
+(e) le Japon ; ou (f) la République populaire de Chine, dans la mesure ou 
+ces pays font partie du Territoire de la Licence (" Action en 
+contrefaçon ") et Vous indemniser des frais et dommages en découlant 
+finalement ordonnés à Votre encontre par ce tiers par un 
+tribunal compétent ou convenus par règlement ; à condition que Vous : (i) 
+fournissiez rapidement à VMware la notification de cette 
+Action en contrefaçon ; (ii) autorisiez le contrôle exclusif de VMware 
+sur la défense s'y rapportant et la négociation de règlement 
+associée ; et (iii) coopériez raisonnablement en répondant aux demandes 
+d'assistance de VMware. Vous ne devez pas accepter un 
+règlement ou un compromis à cette Action en contrefaçon sans l'accord 
+écrit préalable de VMware.
+
+8.2	Recours. Si le Logiciel était, ou était susceptible d'être d'après 
+l'avis de VMWare, l'objet d'une Action en contrefaçon, VMWare, selon le 
+choix et aux frais de VMWare : (a) obtiendra les droits nécessaires pour 
+que Vous puissiez continuer à utiliser le Logiciel concerné 
+conformément au CLUF ; (b) remplacera ou modifiera le Logiciel concerné 
+pour qu'il ne constitue pas une contrefaçon ; ou (c) résiliera la 
+licence du Logiciel concerné et suspendra les services d'assistance 
+associés, et, après que Vous ayez certifié avoir supprimé le Logiciel, 
+remboursera : (i) les frais acquittés par Vous pour la Licence du 
+Logiciel concerné, moins l'amortissement linéaire sur une durée de vie 
+utile de trois (3) ans à la date où le Logiciel a été remis ; et (ii) 
+tous les frais de service prépayés attribuables aux services d'assistance 
+associés devant être fournis après la date d'arrêt de ce service. Aucun 
+élément dans cette Section 8.2 ne peut limiter l'obligation de 
+VMware selon les termes de la Section 8.1 de Vous défendre et de Vous 
+indemniser, à condition que Vous remplaciez le Logiciel 
+contrevenant si VMware a créé et mis à Votre disposition un autre 
+Logiciel et/ou que Vous cessiez d'utiliser le Logiciel contrevenant à la 
+réception de la notification par VMware de résiliation de la Licence 
+concernée.
+
+8.3	Exclusions. Nonobstant ce qui précède, VMware n'aura aucune 
+obligation selon les termes de la présente Section 8 ni d'une autre 
+manière à l'égard d'une revendication basée sur : (a) une combinaison de 
+Logiciels et de produits non-VMware (autres que les produits 
+non-VMware répertoriés dans la Commande et utilisés sous une forme non 
+modifiée) ; (b) l'utilisation pour une fin ou d'une manière pour 
+laquelle le Logiciel n'était pas destiné ; (c) l'utilisation d'une 
+ancienne version du Logiciel lorsque l'utilisation d'une révision VMware 
+plus 
+récente aurait évité la contrefaçon ; (d) toute modification apportée au 
+Logiciel sans approbation expresse de VMware ; (e) toute 
+réclamation relative à un logiciel libre ou une technologie de code 
+source ouvert ou tout autre produit dérivé ou autres adaptations 
+n'ayant pas été intégrés par VMware dans la liste des Logiciels 
+répertoriés dans la liste des prix commerciaux de VMware ; (f) toute 
+réclamation relative à un logiciel libre Linux ou Android, même s'il a 
+été intégré dans ou distribué avec le Logiciel ou (g) tout logiciel 
+fourni gratuitement, dans une version bêta ou pour évaluation. LA 
+PRÉSENTE SECTION 8 DÉFINIT VOTRE RECOURS UNIQUE ET 
+EXCLUSIF ET L'ENTIÈRE RESPONSABILITÉ DE VMWARE POUR TOUTE RÉCLAMATION OU 
+ACTION POUR CONTREFAÇON. 
+
+9.	LIMITATION DE RESPONSABILITÉ. 
+
+9.1	Limitation de responsabilité. DANS TOUTE LA MESURE PERMISE PAR LA 
+LOI, VMWARE ET SES CONCÉDANTS NE SERONT 
+EN AUCUN CAS RESPONSABLES EN CAS DE PERTE DE PROFITS OU D'OPPORTUNITÉS 
+COMMERCIALES, DE PERTE 
+D'UTILISATION, DE PERTE DE REVENUS, DE PERTE DE CLIENTÈLE, D'INTERRUPTION 
+D'ACTIVITÉ, DE PERTE DE DONNÉES 
+OU DE TOUT AUTRE DOMMAGE INDIRECT, QUEL QUE SOIT LE FONDEMENT DE 
+RESPONSABILITÉ, QU'IL SOIT FONDÉ SUR 
+LA RESPONSABILITÉ CONTRACTUELLE, LA RESPONSABILITÉ DÉLICTUELLE, LA 
+NÉGLIGENCE, LA RESPONSABILITÉ DU FAIT 
+DES PRODUITS DÉFECTUEUX OU TOUT AUTRE FONDEMENT. CERTAINS TRIBUNAUX 
+N'AUTORISANT PAS L'EXCLUSION OU 
+LA LIMITATION DE RESPONSABILITÉ POUR LES DOMMAGES ACCESSOIRES OU 
+INDIRECTS, LA LIMITATION CI-DESSUS 
+SERA SUSCEPTIBLE DE NE PAS VOUS ETRE APPLICABLE. LA RESPONSABILITÉ DE 
+VMWARE ET DE SES CONCÉDANTS DE 
+LICENCE DANS LE CADRE DU CLUF NE PEUT, EN AUCUN CAS, QUE LA RÉCLAMATION 
+SOIT FONDÉE OU NON SUR UN 
+CONTRAT, UN DÉLIT, UNE RESPONSABILITÉ OBJECTIVE OU AUTRE, DÉPASSER LE 
+MONTANT DES REDEVANCES DE 
+LICENCE QUE VOUS AVEZ ACQUITTÉ POUR LE LOGICIEL, LE CAS ÉCHÉANT. LES 
+LIMITATIONS CI-DESSUS S'APPLIQUENT 
+QUE VMWARE OU SES CONCÉDANTS AIENT ÉTÉ AVERTIS OU NON DE LA POSSIBILITÉ 
+DE TELS DOMMAGES ET QUE LA 
+SOLUTION ATTEIGNE OU NON SON OBJECTIF. 
+
+9.2	Autres limitations. Les concédants de licence de VMware n'ont 
+aucune responsabilité de quel type que ce soit dans le cadre du CLUF, 
+et la responsabilité de VMware relative à tout logiciel tiers intégré 
+dans le Logiciel est soumise aux conditions stipulées dans la Section 
+9.1. Vous ne pouvez pas présenter une réclamation dans le cadre du CLUF 
+plus de dix-huit (18) mois après la survenance de la cause 
+de l'action.
+
+10.	 	RÉSILIATION. 
+
+10.1	Durée de la licence. Le t CLUF prendra fin dans son intégralité 
+lorsque la Durée de la licence arrivera à expiration, sauf s'il expire 
+plus 
+tôt selon les conditions stipulées dans la présente Section 10.
+
+10.2	Résiliation pour faute. VMware peut résilier le t CLUF dans son 
+intégralité immédiatement après Vous l'avoir notifié par écrit si : (a) 
+Vous ne respectez pas une des clauses de la Section 3 et Vous ne remédiez 
+pas à ce manquement dans un délai de dix (10) jours 
+après avoir reçu la notification écrite s'y rapportant de la part de 
+VMware ; (b) Vous n'avez pas réglé une partie de la redevance selon 
+les termes de la Commande correspondante dans un délai de dix (10) jours 
+après avoir reçu une notification écrite de la part de VMware 
+que le délai de paiement est arrivé à échéance ; (c) Vous ne respectez 
+pas une des clauses du CLUF et Vous ne remédiez pas à ce 
+manquement dans un délai de trente (30) jours après avoir reçu la 
+notification écrite s'y rapportant de la part de VMware ; ou (d) Vous 
+commettez une violation importante qui ne peut pas être réparée.
+
+10.3	Résiliation pour insolvabilité. VMware peut résilier le CLUF dans 
+son intégralité immédiatement après Vous l'avoir notifié par écrit si 
+Vous : (a) mettez fin à ou interrompez Vos activités ; (b) devenez 
+insolvable, reconnaissez par écrit Votre incapacité à rembourser Vos 
+Dettes quand elles sont dues, faites une cession au profit de créanciers 
+; ou êtes soumis au contrôle d'un mandataire, un séquestre ou 
+une autorité similaire ; ou (c) faites l'objet d'une faillite ou d'une 
+procédure d'insolvabilité.
+
+10.4	Effet de la résiliation. Si VMware résilie le t CLUF selon les 
+conditions stipulées dans la Section 10 : (a) tous les droits accordés 
+aux 
+termes de la Licence pour tous les Logiciels qui Vous sont concédés dans 
+le cadre du CLUF cesseront immédiatement d'exister ; et (b) 
+Vous devez cesser immédiatement toute utilisation de tous les Logiciels, 
+et détruire toutes les copies des Logiciels et Clé(s) de licence 
+et renvoyer, ou détruire si VMware le demande, toutes les Informations 
+confidentielles VMware associées en Votre possession ou sous 
+Votre contrôle, et certifier par écrit à VMware que Vous avez répondu 
+entièrement à ces exigences. Les Sections 1 (Définitions), 2.6 
+(Logiciel libre), 3 (Restrictions ; Propriété), 5.1 (Registres), 5.2 
+(Audits), 7.2 (Limitations des garanties), 9 (Limitation de 
+responsabilité), 
+10 (Résiliation), 11 (Informations confidentielles) et 12 (Divers) 
+resteront en vigueur après la résiliation du CLUF.
+
+11.	INFORMATIONS CONFIDENTIELLES. 
+
+11.1	 Définition. Le terme " Informations confidentielles " désigne les 
+informations ou les matériaux fournis par une partie      
+(" Divulgateur ") à l'autre partie (" Destinataire ") qui sont sous une 
+forme matérielle et marquées " confidentiel " ou portant une 
+marque similaire ou, des informations qu'une personne raisonnable savait 
+ou aurait du savoir qu'elles étaient confidentielles. Les 
+informations suivantes doivent être considérées comme des Informations 
+confidentielles, qu'elles soient marquées ou identifiées ou non 
+comme telles : (a) Clés de licence ; (b) informations relatives aux 
+tarifs, gammes de produits ou plans de marketing stratégiques de 
+VMware ; et (c) matériaux non-publics relatifs aux Logiciels.
+
+11.2  Protection. Le Destinataire peut utiliser les Informations 
+confidentielles du Divulgateur ; (a) pour exercer ses droits et remplir 
+ses 
+obligations selon les termes du CLUF ; ou (b) en relation avec la 
+relation commerciale courante des parties.. Le destinataire n'utilisera 
+aucune Information confidentielle du Divulgateur pour une fin qui n'est 
+pas expressément autorisée par le CLUF, et divulguera les 
+Informations confidentielles du Divulgateur uniquement aux employés ou 
+contractants du Destinataire qui ont besoin de connaître ces 
+Informations confidentielles aux fins du CLUF et qui sont soumis à une 
+obligation de confidentialité non moins restrictive que les 
+fonctions du Destinataire aux termes des présentes. Le Destinataire 
+protégera les Informations confidentielles contre toute utilisation, 
+accès ou divulgation non autorisé(e) de la même manière que le 
+Destinataire protège ses propres informations confidentielles ou 
+exclusives d'une nature similaire, mais avec des précautions non moins 
+importantes.
+
+11.3  .Exceptions. Les obligations du Destinataire selon les conditions 
+de la Section 0 concernant toutes les Informations confidentielles 
+prendront fin si le Destinataire peut témoigner par écrit que ces 
+informations : (a) étaient déjà connues du Destinataire au moment de 
+leur divulgation par le Divulgateur ; (b) ont été divulguées au 
+Destinataire par un tiers qui avait le droit de les divulguer sans aucune 
+restriction de confidentialité ; (c) sont, ou sans aucune faute du 
+Destinataire ont été, mises à la disposition du public ; ou (d) ont été 
+développées indépendamment par le Destinataire sans accès à, ou 
+utilisation des, Informations du Divulgateur. En outre, le Destinataire 
+sera autorisé à divulguer les Informations confidentielles dans la mesure 
+où cette divulgation est requise par la loi ou sur ordre d'un 
+tribunal ou d'un organisme judiciaire ou administratif similaire, à 
+condition que le Destinataire prévienne immédiatement et par écrit le 
+Divulgateur de cette divulgation obligatoire et coopère avec le 
+Divulgateur, à la demande et aux frais du Divulgateur, dans une action 
+légale pour contester ou limiter le champ d'application de cette 
+divulgation obligatoire.
+
+11.4	Confidentialité des données. Vous reconnaissez que VMware peut 
+traiter les informations techniques et associées sur Votre utilisation 
+des Logiciels qui peuvent inclure l'adresse de protocole Internet, 
+l'identification du matériel, le système d'exploitation, les logiciels 
+d'application, le matériel périphérique et des statistiques non 
+nominatives sur l'utilisation des Logiciels afin de faciliter la 
+fourniture des 
+mises à jour, le support, la facturation ou les services en ligne, et 
+peut transférer ces informations à d'autres entreprises dans le groupe 
+d'entreprises mondial VMware ponctuellement. Dans le mesure où ces ces 
+informations constituent des données personnelles, VMWare 
+doit être le contrôleur de ces données personnelles. Dans la mesure où 
+VMWare agit en tant que contrôleur, chaque partie doit remplir à 
+tout moment ses obligations en vertu de la législation locale en vigueur 
+dans le Territoire pour la protection des individus concernant le 
+traitement des données personnelles. Les données collectées sont soumises 
+à la Politique de respect de la vie privée de VMware 
+consultable à l'adresse http://www.vmware.com/help/privacy.html.
+
+12.	DIVERS.
+
+12.1	Cession. Le CLUF et toutes les Commandes, ainsi que tous Vos droits 
+ou obligations s'y rapportant, ne peuvent pas être cédés, sous-
+traités ni transférés par Vous, en totalité ou en partie, que ce soit 
+d'une manière volontaire, contractuelle, légale ou autre, sans le 
+consentement écrit préalable de VMWare. Toute cession ou transfert 
+tenté(e) en violation de ce qui précède sera nu(le)l et non 
+avenu(e). Sous réserve de ce qui précède, le t CLUF liera les parties et 
+sera applicable au bénéfice de celles-ci et de leurs successeurs 
+et ayants droit respectifs. 
+
+12.2   Notifications. Toutes les notifications qui Vous sont adressées 
+par VMWare dans le cadre du CLUF seront envoyées par courrier postal, 
+courrier électronique ou télécopie.
+ 
+12.3	Renonciation. La renonciation à une violation d'une des 
+dispositions du CLUF ne peut constituer une renonciation à toute autre 
+disposition ou violation ultérieure d'une disposition. 
+
+12.4	Divisibilité. Si une disposition du t CLUF est jugée illégale, non 
+valide ou inapplicable, elle sera appliquée dans toute la mesure 
+autorisée eu égard aux intentions des parties, et les autres dispositions 
+CLUF resteront applicables entièrement et sans limitation.
+
+12.5   Respect des lois ; Contrôle des exportations ; Réglementation 
+gouvernementale. Chaque partie doit respecter toutes les lois 
+applicables aux actions prévues par le CLUF. Vous reconnaissez que les 
+Logiciels proviennent des États-Unis, sont fournis 
+conformément à la réglementation des États-Unis régissant les 
+exportations, peuvent être soumis aux lois sur le contrôle des 
+exportations, et que toute utilisation contraire aux lois sur le contrôle 
+des exportations est interdite. Vous déclarez que (1) Vous n'êtes 
+pas, et Vous n'agissez pour le compte de, (a) toute personne citoyenne, 
+ressortissante ou résidente de, ou qui est contrôlée par le 
+gouvernement, d'un pays vers lequel les États-Unis ont interdit 
+l'exportation ainsi que les transactions ; ou (b) toute personne ou 
+entité 
+présente sur la liste du département du Trésor des États-Unis des 
+ressortissants spécialement désignés et personnes bloquées, sur la 
+liste du ministère du Commerce des États-Unis des personnes ou entités 
+refusées ; et (2) Vous n'autoriserez par l'utilisation des 
+Logiciels pour toute fin interdite par la loi, y compris, tout 
+développement, conception, fabrication ou production non autorisé(e) de 
+missiles ou armes nucléaires, chimiques ou biologiques. Les logiciels et 
+la documentation qui les accompagne sont respectivement 
+considérés comme des " logiciels informatiques commerciaux " et de la " 
+documentation de logiciels informatiques commerciaux ", 
+conformément à la section 227.7202 du DFAR et à la section 12.212(b) du 
+FAR applicables. Toute utilisation, modification, reproduction, 
+sortie, exécution, présentation ou divulgation des Logiciels et de la 
+documentation par le Gouvernement des États-Unis sera régie 
+seulement par les termes du CLUF.
+
+12.6    Interprétation. Les sections du CLUF sont destinées à faciliter 
+la lecture et ne sont pas destinées à être utilisées pour 
+l'interprétation du 
+t CLUF. Tel qu'il est utilisé dans le CLUF, le terme 'y compris' signifie 
+'y compris mais sans s'y restreindre'.
+
+12.7   Droit applicable. Le CLUF est régi par les lois de l'État de 
+Californie, États-Unis d'Amérique, sauf mention contraire. La convention 
+des 
+Nations Unies pour la vente internationale des marchandises ne 
+s'appliquera pas.
+
+12.8    Langue. Cette version non-anglaise du CLUF vous est fournie 
+uniquement par courtoisie, et votre utilisation du Logiciel est régie par 
+la 
+version anglaise du CLUF, publiée sur ce site Web : 
+www.vmware.com/download/eula.
+
+12.9    Droits des tiers. Sauf si mention expresse dans le CLUF, le t 
+CLUF ne crée aucun droit pour aucune personne qui n'en constitue pas 
+une partie, et aucune personne qui n'est pas une partie du CLUF ne peut 
+appliquer aucune de ses clauses ni se référer à aucune 
+exclusion ou limitation qu'il contient. 
+
+12.10 	Guide des produits. En plus des sections ci-dessus, Votre 
+utilisation du Logiciel est soumise aux conditions générales du Guide des 
+produits, qui est incorporé dans le présent document pour référence. 
+
+12.11	Ordre de priorité. En cas de conflit ou d'incohérence entre le 
+Guide des produits, le CLUF et la Commande, l'ordre de priorité suivant 
+s'applique : (a) le Guide des produits, (b) le CLUF et (c) la Commande. 
+En cas d'incohérence entre le CLUF et une Commande, les 
+clauses du t CLUF doivent prévaloir et contrôler tout conflit ou 
+conditions générales additionnelles de toute Commande, reconnaissance 
+ou confirmation ou autre document émis par Vous, sauf si les parties 
+exécutent un accord écrit indiquant expressément : (i) que cette 
+Commande doit modifier le CLUF ; ou (ii) que les dispositions de cette 
+Commande doivent prévaloir et contrôler si ce type d'incohérence 
+se présentait. 
+
+12.13	Intégralité du contrat. Le CLUF, y compris les Commandes acceptées 
+et toute modification de celles-ci, ainsi que le Guide des 
+produits, contiennent l'intégralité du contrat des parties concernant 
+l'objet du t CLUF et remplace toutes les communications, 
+représentations, propositions, engagements, ententes et accords 
+précédents, qu'ils soient écrits ou oraux, entre les parties concernant 
+l'objet des présentes. Le t CLUF peut être modifié uniquement par écrit 
+et signé par des représentants autorisés des deux parties.
+
+12.14	Informations de contact. Veuillez adresser toute correspondance de 
+nature juridique ou toute autre correspondance à : VMware, Inc., 
+3401 Hillview Avenue, Palo Alto, CA 94304, États-Unis d'Amérique. Si Vous 
+avez des questions concernant le présent CLUF, veuillez 
+envoyer un e-mail à l'adresse info@vmware.com.

@@ -18,13 +18,17 @@ That’s it! Working like a charm in my Ubuntu 10.10 64bit system.
 
 
 
-for vmware-view-client, rename temp/usr/lib to temp/usr/lib32
+for vmware-view-client, do the following:
 
-
-edit control file
-	temp/DEBIAN/control
-
-
-updating the md5s
+ -rename lib to lib32
+	mv temp/usr/lib temp/usr/lib32
+ -edit control file 
+	nano temp/DEBIAN/control
+ -modify vmware-view script 
+	(temp/usr/bin/vmware-view)
+ -update the md5sums
 	cd temp
 	md5deep -lr usr > DEBIAN/md5sums
+ -update control file with new installed size
+	du -s temp
+	nano temp/DEBIAN/control

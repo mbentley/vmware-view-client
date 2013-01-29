@@ -1,0 +1,40 @@
+--- rdesktop-1.6.0.orig/scard.c	2008-02-14 03:37:18.000000000 -0800
++++ rdesktop-1.6.0.win7/scard.c	2010-02-22 13:17:08.000000000 -0800
+@@ -1978,6 +1978,37 @@ TS_SCardGetAttrib(STREAM in, STREAM out)
+ 		pthread_mutex_unlock(&hcardAccess);
+ 		DEBUG_SCARD(("[0x%.8x]\n", (unsigned int) rv));
+ 	}
++        else if (dwAttrId == 0x000000005 && rv != SCARD_S_SUCCESS)
++        {
++                DEBUG_SCARD(("SCARD:    Faking attribute SCARD_ATTR_DEVICE_FRIENDLY_NAME_W\n"));
++		pthread_mutex_lock(&hcardAccess);
++		PSCHCardRec hcard = hcardFirst;
++		while (hcard)
++		{
++			if (hcard->hCard == hCard)
++			{
++                                SERVER_DWORD attrLen = 2 * strlen(hcard->vendor);
++                                int i;
++				if (pbAttr && attrLen > dwAttrLen)
++                                {
++                                        continue;
++                                }
++                                dwAttrLen = attrLen;
++                                if (pbAttr) {
++                                    for (i = 0; hcard->vendor[i]; i++) {
++                                        pbAttr[i * 2] = isascii(hcard->vendor[i])
++                                            ? hcard->vendor[i] : '?';
++                                        pbAttr[i * 2 + 1] = '\0';
++                                    }
++                                }
++                                rv = SCARD_S_SUCCESS;
++				break;
++			}
++			hcard = hcard->next;
++		}
++		pthread_mutex_unlock(&hcardAccess);
++		DEBUG_SCARD(("[0x%.8x]\n", (unsigned int) rv));
++        }
+ 
+ 	if (rv != SCARD_S_SUCCESS)
+ 	{

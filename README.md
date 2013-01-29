@@ -5,10 +5,10 @@ VMware has released a VMware View Client .deb files for i386 but not amd64.  The
 
 The complete .deb files can be found in each version's directory.  Make sure to download the correct version for your architecture as I have included the original i386 source files used.
 
-The latest amd64 build (1.5.0) can be found at:
+The latest amd64 build (1.6.0) can be found at:
 https://github.com/mbentley/vmware-view-client/downloads
 
-I have builds for Debian 6/Ubuntu 10.04 and Debian Sid/Mint 13/Ubuntu 12.04.  If you require a build for another version, please send me an email with your request and I will see what I can do to help you out.
+I have builds for Debian 6/Debian 7/Ubuntu 10.04 and Debian Sid/Mint 13/Ubuntu 12.04.  If you require a build for another version, please send me an email with your request and I will see what I can do to help you out.
 
 The latest version of the officially released vmware-view-client for i386 can be found at:
 https://launchpad.net/ubuntu/+source/vmware-view-client/

@@ -5,7 +5,7 @@ Note:  With Debian wheezy and later, multi-arch negates the need to create amd64
 Debian:  https://blog.mbentley.net/2013/05/vmware-view-client-2-0-on-debian-wheezy-i386amd64/ <br>
 Ubuntu:  https://blog.mbentley.net/2013/05/vmware-view-client-1-7-2-0-on-ubuntu-13-04-i386amd64/
 
-==================
+<hr>
 
 VMware has released a VMware View Client .deb files for i386 but not amd64.  The aim of this project is to provide amd64 ready .deb files for Debian and Ubuntu.  I am not actively creating amd64 builds for Ubuntu unless someone points out compatibility issues.
 
